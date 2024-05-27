@@ -68,6 +68,11 @@ https://developerlife.com/2024/05/19/effective-async-rust/
 **Thinking in Iterators**  
 https://corrode.dev/blog/iterators/
 
+## WASM
+
+**WebAssembly: A promising technology that is quietly being sabotaged**  
+https://kerkour.com/webassembly-wasi-preview2
+
 ## Zig
 
 **YouTube**: @DeveloperVoices - **What's Zig got that C, Rust and Go don't have? (with Loris Cro)**  
