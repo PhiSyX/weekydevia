@@ -40,3 +40,6 @@ particularly appreciated:
 | 2    | Jonas Kruckenberg | [K23: A secure research OS running WASM](https://youtu.be/521NfGf7AR0?t=9820)                                |
 | 2    | Raph Levien       | [Xilem: let's build high performance Rust UI](https://youtu.be/521NfGf7AR0?t=19310)                          |
 | 2    | Niko Matsakis     | [Type theory for busy engineers](https://youtu.be/521NfGf7AR0?t=25024)                                       |
+
+**This Week in Rust 548**  
+https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/
