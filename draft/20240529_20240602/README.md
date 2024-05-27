@@ -49,3 +49,8 @@ https://developerlife.com/2024/05/19/effective-async-rust/
 
 **Thinking in Iterators**  
 https://corrode.dev/blog/iterators/
+
+## Zig
+
+**YouTube**: @DeveloperVoices - **What's Zig got that C, Rust and Go don't have? (with Loris Cro)**  
+https://youtu.be/5_oqWE9otaE
