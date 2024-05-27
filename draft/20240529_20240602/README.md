@@ -73,6 +73,9 @@ https://developerlife.com/2024/05/19/effective-async-rust/
 **Thinking in Iterators**  
 https://corrode.dev/blog/iterators/
 
+**Crux: Cross-platform app development in Rust**  
+https://redbadger.github.io/crux/
+
 ## WASM
 
 **WebAssembly: A promising technology that is quietly being sabotaged**  
