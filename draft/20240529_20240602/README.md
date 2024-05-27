@@ -43,3 +43,6 @@ particularly appreciated:
 
 **This Week in Rust 548**  
 https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/
+
+**Build with Naz: Rust async, non-blocking, concurrent, parallel, event loops, cancellation safety**  
+https://developerlife.com/2024/05/19/effective-async-rust/
