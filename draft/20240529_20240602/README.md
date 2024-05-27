@@ -15,6 +15,14 @@ https://www.sfeir.dev/front/kesaco-adr/
 > peuvent vous aider à surmonter ces défis en fournissant un cadre structuré
 > pour documenter les décisions architecturales._
 
+## IDE / Editor
+
+**The AI Code Editor**  
+https://cursor.sh/
+
+> _"Cursor is the AI-first code editor, built on frontier models, to make you an
+> extraordinarily productive engineer."_
+
 ## CSS
 
 **matcha.css** - https://matcha.mizu.sh/
