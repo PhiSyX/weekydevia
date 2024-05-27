@@ -17,6 +17,11 @@ https://www.sfeir.dev/front/kesaco-adr/
 > peuvent vous aider à surmonter ces défis en fournissant un cadre structuré
 > pour documenter les décisions architecturales._
 
+## VM
+
+**VMware Workstation Pro: Now Available Free for Personal Use**  
+https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html
+
 ## IDE / Editor
 
 **The AI Code Editor**  
