@@ -4,7 +4,9 @@
 
 use std::{io::Write, path, process, sync::Arc};
 
-use weekydevia::{cli, replace_relative_links, Result, Template, TemplateChan, TemplateState};
+use weekydevia::{
+    cli, feed, replace_relative_links, Result, Template, TemplateChan, TemplateState,
+};
 
 #[tokio::main(flavor = "current_thread")]
 async fn main() -> Result<impl process::Termination> {
@@ -22,7 +24,8 @@ async fn main() -> Result<impl process::Termination> {
 
     let template = Template::open(template_readme_file.to_owned())?.with_sender(&tx);
     let shared_template = Arc::new(template);
-    let handle = tokio::spawn(shared_template.process(template_readme_file.clone(), template_readme_file));
+    let handle =
+        tokio::spawn(shared_template.process(template_readme_file.clone(), template_readme_file));
 
     let mut output_content = String::new();
 
@@ -53,6 +56,9 @@ async fn main() -> Result<impl process::Termination> {
 
     let output_file = args.output_directory.join("README.md");
     create_or_update_markdown_file(output_file, &output_content)?;
+
+    // Generate RSS
+    feed::generate_rss(&args.output_directory)?;
 
     Ok(std::process::ExitCode::SUCCESS)
 }
