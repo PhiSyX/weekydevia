@@ -62,10 +62,19 @@ https://grafikart.fr/tutoriels/graph-d3js-2215
 
 ## Programming language
 
+**"Boundaries of Language Design" with Andrew Kelley & Ginger Bill**  
+https://youtu.be/3K8znjWN_Ig
+
 ### Go
 
 **Cache-Aside using Decorator Design Pattern in Go**  
 https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/
+
+**Building Dynamic Applications with Interpreted Go (Gno @ Golang Serbia Meetup)**  
+https://youtu.be/tNM1DHOxIQ8
+
+**Blazingly Fast Shadow Stacks for Go**  
+https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/
 
 ### Rust
 
@@ -107,5 +116,12 @@ https://www.sophiajt.com/search-for-easier-safe-systems-programming/
 **WebAssembly: A promising technology that is quietly being sabotaged**  
 https://kerkour.com/webassembly-wasi-preview2
 
-#include <programming-language/zig.md>
+**Why We Chose WebAssembly (Wasm) for Our Edge Runtime**  
+https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/
+
+### Zig
+
+**YouTube**: @DeveloperVoices - **What's Zig got that C, Rust and Go don't have?
+(with Loris Cro)**  
+https://youtu.be/5_oqWE9otaE
 

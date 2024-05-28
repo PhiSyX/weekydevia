@@ -7,6 +7,8 @@ Links may be out of date, this is not a newsletter about new resources only.
 
 -----
 
+## WEB
+
 ## CSS
 
 **On compliance vs readability: Generating text colors with CSS**  
