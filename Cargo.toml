@@ -1,0 +1,16 @@
+[package]
+name = "weekydevia"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "tool/lib.rs"
+
+[[bin]]
+name = "generate"
+path = "tool/bin/generate.rs"
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
+tokio = { version = "1.37.0", features = ["rt", "macros", "sync"] }
+thiserror = { version = "1.0.61" }
