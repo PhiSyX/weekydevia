@@ -26,7 +26,7 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
     let rss_title = format!("weekydevia: {}", &release_date);
     let rss_link = format!(
         "https://github.com/PhiSyX/weekydevia/blob/main/release/{}/README.md",
-        &release_date,
+        &release_name,
     );
     let rss_description = format!("Resources of the week ({})", release_date);
     let rss_author = String::from("Mike 'PhiSyX' S.");
