@@ -37,7 +37,7 @@ https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-availabl
 
 ## WEB
 
-## CSS
+### CSS
 
 **On compliance vs readability: Generating text colors with CSS**  
 https://lea.verou.me/blog/2024/contrast-color/
@@ -48,7 +48,7 @@ https://lea.verou.me/blog/2024/contrast-color/
 > to a default browser stylesheet, eliminating the need for users to manually
 > patch their documents."_
 
-## JavaScript
+### JavaScript
 
 **What's new in JavaScript Frameworks (May 2024)**  
 https://developer.chrome.com/blog/frameworks-may-2024

@@ -3,6 +3,8 @@ use std::{
     path,
 };
 
+use expry::{rewind, MemoryPool};
+
 pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
     let release_name = release_file.as_ref().file_name().unwrap().to_string_lossy();
     // ex: 20240529_20240602
@@ -40,7 +42,7 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
         author: Some(rss_author),
         guid: Some(rss::Guid::default()),
         pub_date: Some(rss_pub_date.to_string()),
-        content: Some(markdown2html::markdown(&rss_content)),
+        content: md2html(&rss_content).ok(),
         ..Default::default()
     });
 
@@ -48,4 +50,12 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
     feed_file.write_all(channel.to_string().as_bytes())?;
 
     Ok(())
+}
+
+fn md2html(content: &str) -> crate::Result<String> {
+    let mut allocator = MemoryPool::new();
+    rewind!(scope in allocator);
+    Ok(markdown2html::parse_markdown(content, &mut scope)
+        .unwrap()
+        .to_string())
 }
