@@ -11,4 +11,4 @@ contents of the default template located in
 
 Markdown files beginning with `_` are not included in the release directory.
 
-Last Release: xxxx-xx-xx
+Last Release: [2024.05.29 - 2024.06.02](release/20240529_20240602/README.md)
