@@ -35,6 +35,11 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
 
     channel.last_build_date.replace(rss_pub_date.to_string());
 
+    // NOTE: only keep the last 20 releases
+    if channel.items.len() == 20 {
+        channel.items.remove(0);
+    }
+
     channel.items.push(rss::Item {
         title: Some(rss_title),
         link: Some(rss_link),
