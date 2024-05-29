@@ -10,7 +10,7 @@ Links may be out of date, this is not a newsletter about new resources only.
 ## Project
 
 🇫🇷 **Késaco : ADR ?**  
-https://www.sfeir.dev/front/kesaco-adr/
+[https://www.sfeir.dev/front/kesaco-adr/](https://www.sfeir.dev/front/kesaco-adr/)
 
 > _"Peux-tu documenter cela ?" "Pense à écrire une documentation sur ce sujet."
 > Ces exigences vous semblent-elles insurmontables ? Découvrez comment les ADRs

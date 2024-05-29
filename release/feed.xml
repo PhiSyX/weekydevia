@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-28 22:53:35.791945900 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.29 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240529_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.29 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-28 22:53:35.791945900 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-29 08:24:05.987012100 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.29 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240529_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.29 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-29 08:24:05.987012100 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
 <hr>
 <h2>Project</h2>
 <p>🇫🇷 <strong>Késaco : ADR ?</strong><br>
-https://www.sfeir.dev/front/kesaco-adr/</p>
+<a href="https://www.sfeir.dev/front/kesaco-adr/">https://www.sfeir.dev/front/kesaco-adr/</a></p>
 <blockquote>
 <p><em>"Peux-tu documenter cela ?" "Pense à écrire une documentation sur ce sujet."
 Ces exigences vous semblent-elles insurmontables ? Découvrez comment les ADRs
@@ -14,23 +14,23 @@ pour documenter les décisions architecturales.</em></p>
 </blockquote>
 <h2>IDE / Editor</h2>
 <p><strong>The AI Code Editor</strong><br>
-https://cursor.sh/</p>
+<a href="https://cursor.sh/">https://cursor.sh/</a></p>
 <blockquote>
 <p><em>"Cursor is the AI-first code editor, built on frontier models, to make you an
 extraordinarily productive engineer."</em></p>
 </blockquote>
 <p><strong>RustRover Is Released and Includes a Free Non-Commercial Option</strong><br>
-https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/</p>
+<a href="https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/">https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/</a></p>
 <blockquote>
 <p><em>"A powerhouse IDE for Rust developers"</em></p>
 </blockquote>
 <h2>VM</h2>
 <p><strong>VMware Workstation Pro: Now Available Free for Personal Use</strong><br>
-https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html</p>
+<a href="https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html">https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html</a></p>
 <h2>WEB</h2>
 <h3>CSS</h3>
 <p><strong>On compliance vs readability: Generating text colors with CSS</strong><br>
-https://lea.verou.me/blog/2024/contrast-color/</p>
+<a href="https://lea.verou.me/blog/2024/contrast-color/">https://lea.verou.me/blog/2024/contrast-color/</a></p>
 <p><strong>matcha.css</strong> - https://matcha.mizu.sh/</p>
 <blockquote>
 <p><em>"matcha.css is a pure CSS library designed to style HTML elements similarly
@@ -39,27 +39,27 @@ patch their documents."</em></p>
 </blockquote>
 <h3>JavaScript</h3>
 <p><strong>What's new in JavaScript Frameworks (May 2024)</strong><br>
-https://developer.chrome.com/blog/frameworks-may-2024</p>
+<a href="https://developer.chrome.com/blog/frameworks-may-2024">https://developer.chrome.com/blog/frameworks-may-2024</a></p>
 <blockquote>
 <p><em>"It can be difficult to keep up with everything that is going with JavaScript
 frameworks. This document provides brief highlights of recent happenings in
 the JavaScript frameworks ecosystem over the past year or so."</em></p>
 </blockquote>
 <p>🇫🇷 <strong>Dessiner des graphiques avec d3js</strong><br>
-https://grafikart.fr/tutoriels/graph-d3js-2215</p>
+<a href="https://grafikart.fr/tutoriels/graph-d3js-2215">https://grafikart.fr/tutoriels/graph-d3js-2215</a></p>
 <h2>Programming language</h2>
 <p><strong>"Boundaries of Language Design" with Andrew Kelley &amp; Ginger Bill</strong><br>
-https://youtu.be/3K8znjWN_Ig</p>
+<a href="https://youtu.be/3K8znjWN_Ig">https://youtu.be/3K8znjWN_Ig</a></p>
 <h3>Go</h3>
 <p><strong>Cache-Aside using Decorator Design Pattern in Go</strong><br>
-https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/</p>
+<a href="https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/">https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/</a></p>
 <p><strong>Building Dynamic Applications with Interpreted Go (Gno @ Golang Serbia Meetup)</strong><br>
-https://youtu.be/tNM1DHOxIQ8</p>
+<a href="https://youtu.be/tNM1DHOxIQ8">https://youtu.be/tNM1DHOxIQ8</a></p>
 <p><strong>Blazingly Fast Shadow Stacks for Go</strong><br>
-https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/</p>
+<a href="https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/">https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/</a></p>
 <h3>Rust</h3>
 <p><strong>Conference RustNL 2024</strong><br>
-https://2024.rustnl.org/live/<br>
+<a href="https://2024.rustnl.org/live/++">https://2024.rustnl.org/live/</a>
 All the presentations are interesting. However, here are the ones that I
 particularly appreciated:</p>
 <p>| Day | Speaker           | Title                                                                                                        |
@@ -71,27 +71,29 @@ particularly appreciated:</p>
 | 2   | Raph Levien       | <a href="https://youtu.be/521NfGf7AR0?t=19310">Xilem: let's build high performance Rust UI</a>                          |
 | 2   | Niko Matsakis     | <a href="https://youtu.be/521NfGf7AR0?t=25024">Type theory for busy engineers</a>                                       |</p>
 <p><strong>This Week in Rust 548</strong><br>
-https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/</p>
+<a href="https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/">https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/</a></p>
 <p><strong>Build with Naz: Rust async, non-blocking, concurrent, parallel, event loops,
 cancellation safety</strong><br>
-https://developerlife.com/2024/05/19/effective-async-rust/</p>
+<a href="https://developerlife.com/2024/05/19/effective-async-rust/">https://developerlife.com/2024/05/19/effective-async-rust/</a></p>
 <p><strong>Thinking in Iterators</strong><br>
-https://corrode.dev/blog/iterators/</p>
+<a href="https://corrode.dev/blog/iterators/">https://corrode.dev/blog/iterators/</a></p>
 <p><strong>Crux: Cross-platform app development in Rust</strong><br>
-https://redbadger.github.io/crux/</p>
+<a href="https://redbadger.github.io/crux/">https://redbadger.github.io/crux/</a></p>
 <p><strong>The search for easier safe systems programming</strong><br>
-https://www.sophiajt.com/search-for-easier-safe-systems-programming/</p>
+<a href="https://www.sophiajt.com/search-for-easier-safe-systems-programming/">https://www.sophiajt.com/search-for-easier-safe-systems-programming/</a></p>
 <blockquote>
 <p><em>"Announcing June, a safe systems language that's a sister language to Rust.
 Focused on readability, learnability, and teachability."</em></p>
 </blockquote>
 <h3>WASM</h3>
 <p><strong>WebAssembly: A promising technology that is quietly being sabotaged</strong><br>
-https://kerkour.com/webassembly-wasi-preview2</p>
+<a href="https://kerkour.com/webassembly-wasi-preview2">https://kerkour.com/webassembly-wasi-preview2</a></p>
 <p><strong>Why We Chose WebAssembly (Wasm) for Our Edge Runtime</strong><br>
-https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/</p>
+<a href="https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/">https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/</a></p>
+<p><strong>Wasmi's New Execution Engine - Faster Than Ever</strong><br>
+<a href="https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/">https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/</a></p>
 <h3>Zig</h3>
 <p><strong>YouTube</strong>: @DeveloperVoices - <strong>What's Zig got that C, Rust and Go don't have?
 (with Loris Cro)</strong><br>
-https://youtu.be/5_oqWE9otaE</p>
+<a href="https://youtu.be/5_oqWE9otaE">https://youtu.be/5_oqWE9otaE</a></p>
 ]]></content:encoded></item></channel></rss>

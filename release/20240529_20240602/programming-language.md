@@ -10,23 +10,23 @@ Links may be out of date, this is not a newsletter about new resources only.
 ## Programming language
 
 **"Boundaries of Language Design" with Andrew Kelley & Ginger Bill**  
-https://youtu.be/3K8znjWN_Ig
+[https://youtu.be/3K8znjWN_Ig](https://youtu.be/3K8znjWN_Ig)
 
 ### Go
 
 **Cache-Aside using Decorator Design Pattern in Go**  
-https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/
+[https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/](https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/)
 
 **Building Dynamic Applications with Interpreted Go (Gno @ Golang Serbia Meetup)**  
-https://youtu.be/tNM1DHOxIQ8
+[https://youtu.be/tNM1DHOxIQ8](https://youtu.be/tNM1DHOxIQ8)
 
 **Blazingly Fast Shadow Stacks for Go**  
-https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/
+[https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 
 ### Rust
 
 **Conference RustNL 2024**  
-https://2024.rustnl.org/live/  
+[https://2024.rustnl.org/live/  ](https://2024.rustnl.org/live/  )
 All the presentations are interesting. However, here are the ones that I
 particularly appreciated:
 
@@ -40,20 +40,20 @@ particularly appreciated:
 | 2   | Niko Matsakis     | [Type theory for busy engineers](https://youtu.be/521NfGf7AR0?t=25024)                                       |
 
 **This Week in Rust 548**  
-https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/
+[https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/](https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/)
 
 **Build with Naz: Rust async, non-blocking, concurrent, parallel, event loops,
 cancellation safety**  
-https://developerlife.com/2024/05/19/effective-async-rust/
+[https://developerlife.com/2024/05/19/effective-async-rust/](https://developerlife.com/2024/05/19/effective-async-rust/)
 
 **Thinking in Iterators**  
-https://corrode.dev/blog/iterators/
+[https://corrode.dev/blog/iterators/](https://corrode.dev/blog/iterators/)
 
 **Crux: Cross-platform app development in Rust**  
-https://redbadger.github.io/crux/
+[https://redbadger.github.io/crux/](https://redbadger.github.io/crux/)
 
 **The search for easier safe systems programming**  
-https://www.sophiajt.com/search-for-easier-safe-systems-programming/
+[https://www.sophiajt.com/search-for-easier-safe-systems-programming/](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 
 > _"Announcing June, a safe systems language that's a sister language to Rust.
 > Focused on readability, learnability, and teachability."_
@@ -61,13 +61,16 @@ https://www.sophiajt.com/search-for-easier-safe-systems-programming/
 ### WASM
 
 **WebAssembly: A promising technology that is quietly being sabotaged**  
-https://kerkour.com/webassembly-wasi-preview2
+[https://kerkour.com/webassembly-wasi-preview2](https://kerkour.com/webassembly-wasi-preview2)
 
 **Why We Chose WebAssembly (Wasm) for Our Edge Runtime**  
-https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/
+[https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/](https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/)
+
+**Wasmi's New Execution Engine - Faster Than Ever**  
+[https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 
 ### Zig
 
 **YouTube**: @DeveloperVoices - **What's Zig got that C, Rust and Go don't have?
 (with Loris Cro)**  
-https://youtu.be/5_oqWE9otaE
+[https://youtu.be/5_oqWE9otaE](https://youtu.be/5_oqWE9otaE)

@@ -105,6 +105,11 @@ impl Template {
                     _ = self.tx().send(TemplateState::EOF);
                     break;
                 }
+                
+                let mut line = line.to_owned();
+                if line.starts_with("http") {
+                    line = format!("[{0}]({0})", line);
+                }
 
                 let filename: OsString = if output_filename.to_string_lossy().starts_with('_') {
                     prev_filename
