@@ -8,3 +8,6 @@ https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/
 
 **Wasmi's New Execution Engine - Faster Than Ever**  
 https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/
+
+🇮🇹 **YouTube**: @DanieleScasciafratte - **LLVM e WebAssembly**  
+https://youtu.be/SowcfxoLm6Y
