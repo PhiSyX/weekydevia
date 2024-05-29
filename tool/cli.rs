@@ -4,12 +4,15 @@ use clap::Parser;
 
 #[derive(clap::Parser)]
 pub struct Args {
-    /// Répertoire template README
+    /// Répertoire draft, avec le fichier template README.md
     #[clap(short = 'd')]
-    pub template_directory: path::PathBuf,
+    pub draft_directory: path::PathBuf,
     /// Fichier de sortie
     #[clap(short = 'o')]
     pub output_directory: path::PathBuf,
+    /// Supprime le répertoire draft
+    #[clap(default_value = "false", long)]
+    pub delete: bool
 }
 
 pub fn arguments() -> Args {

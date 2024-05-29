@@ -20,7 +20,7 @@ async fn main() -> Result<impl process::Termination> {
 
     let TemplateChan(tx, mut rx) = TemplateChan::channel();
 
-    let template_readme_file = args.template_directory.join("README.md");
+    let template_readme_file = args.draft_directory.join("README.md");
 
     let template = Template::open(template_readme_file.to_owned())?.with_sender(&tx);
     let shared_template = Arc::new(template);
@@ -33,7 +33,7 @@ async fn main() -> Result<impl process::Termination> {
         while let Some(state) = rx.recv().await {
             match state {
                 TemplateState::Content { filename, text } => {
-                    let content = replace_relative_links(args.template_directory.display(), &text);
+                    let content = replace_relative_links(args.draft_directory.display(), &text);
                     output_content.push_str(&content);
 
                     if filename == "README.md" {
@@ -59,6 +59,10 @@ async fn main() -> Result<impl process::Termination> {
 
     // Generate RSS
     feed::generate_rss(&args.output_directory)?;
+
+    if args.delete {
+        std::fs::remove_dir_all(args.draft_directory)?;
+    }
 
     Ok(std::process::ExitCode::SUCCESS)
 }
