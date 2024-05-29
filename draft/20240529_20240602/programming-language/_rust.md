@@ -24,6 +24,9 @@ https://developerlife.com/2024/05/19/effective-async-rust/
 **Thinking in Iterators**  
 https://corrode.dev/blog/iterators/
 
+**Don't Worry About Lifetimes**  
+https://corrode.dev/blog/lifetimes/
+
 **Crux: Cross-platform app development in Rust**  
 https://redbadger.github.io/crux/
 
