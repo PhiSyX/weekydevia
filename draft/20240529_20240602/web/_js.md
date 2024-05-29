@@ -9,3 +9,6 @@ https://developer.chrome.com/blog/frameworks-may-2024
 
 🇫🇷 **Dessiner des graphiques avec d3js**  
 https://grafikart.fr/tutoriels/graph-d3js-2215
+
+**Automatic Polyfill for Modern Browsers With Vite**  
+https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/
