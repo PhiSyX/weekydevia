@@ -28,3 +28,9 @@ https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes
 
 **Crux: Cross-platform app development in Rust**  
 https://redbadger.github.io/crux/
+
+**The search for easier safe systems programming**  
+https://www.sophiajt.com/search-for-easier-safe-systems-programming/
+
+> _"Announcing June, a safe systems language that's a sister language to Rust.
+> Focused on readability, learnability, and teachability."_
