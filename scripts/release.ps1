@@ -1,5 +1,5 @@
 if ( $args.count -lt 1 ) {
-    echo "Range date is mandatory, e.g: `20240529_20240602` which whould be a directory inside the draft directory"
+    echo "Range date is mandatory, e.g: `20240527_20240602` which whould be a directory inside the draft directory"
     exit(1)
 }
 

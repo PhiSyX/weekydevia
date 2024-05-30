@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-29 08:24:05.987012100 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.29 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240529_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.29 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-29 08:24:05.987012100 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-30 19:50:37.398406300 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
@@ -12,6 +12,9 @@ Ces exigences vous semblent-elles insurmontables ? Découvrez comment les ADRs
 peuvent vous aider à surmonter ces défis en fournissant un cadre structuré
 pour documenter les décisions architecturales.</em></p>
 </blockquote>
+<h2>Design Patterns | SOLID</h2>
+<p>🇧🇷 <strong>SOLID Open/Closed Principle + Design Patterns Strategy e Template Method</strong><br>
+<a href="https://youtu.be/eaCAykuD13o">https://youtu.be/eaCAykuD13o</a></p>
 <h2>IDE / Editor</h2>
 <p><strong>The AI Code Editor</strong><br>
 <a href="https://cursor.sh/">https://cursor.sh/</a></p>
@@ -45,11 +48,36 @@ patch their documents."</em></p>
 frameworks. This document provides brief highlights of recent happenings in
 the JavaScript frameworks ecosystem over the past year or so."</em></p>
 </blockquote>
+<p><strong>ECMAScript 2023 feature: symbols as WeakMap keys</strong><br>
+<a href="https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html">https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html</a></p>
 <p>🇫🇷 <strong>Dessiner des graphiques avec d3js</strong><br>
 <a href="https://grafikart.fr/tutoriels/graph-d3js-2215">https://grafikart.fr/tutoriels/graph-d3js-2215</a></p>
+<p>🇫🇷 <strong>Créer un captcha personnalisé</strong><br>
+<a href="https://grafikart.fr/tutoriels/captcha-puzzle-2216">https://grafikart.fr/tutoriels/captcha-puzzle-2216</a></p>
+<p><strong>Automatic Polyfill for Modern Browsers With Vite</strong><br>
+<a href="https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/">https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/</a></p>
+<p><strong>📨 #187: Next.js, Expo, Popover, rethrow, SWR, React-Query, Astro, PPR, tRPC,
+zsa, Memory leaks, INP, RN IDE, Skia, WebGPU, RNSC, Atlas, Re.Pack, Prisma,
+SwiftUI, Flutter, Angular...</strong><br>
+<a href="https://thisweekinreact.com/newsletter/187">https://thisweekinreact.com/newsletter/187</a></p>
+<h3>AdonisJS</h3>
+<p><strong>Filtering By User's Watched Status</strong><br>
+<a href="https://adocasts.com/lessons/filtering-by-users-watched-status">https://adocasts.com/lessons/filtering-by-users-watched-status</a></p>
+<p><strong>Allowing Users To Toggle A Movie As Watched</strong><br>
+<a href="https://adocasts.com/lessons/allowing-users-to-toggle-a-movie-as-watched">https://adocasts.com/lessons/allowing-users-to-toggle-a-movie-as-watched</a></p>
+<p><strong>Defining A Composite Unique Constraint</strong><br>
+<a href="https://adocasts.com/lessons/defining-a-composite-unique-constraint">https://adocasts.com/lessons/defining-a-composite-unique-constraint</a></p>
 <h2>Programming language</h2>
 <p><strong>"Boundaries of Language Design" with Andrew Kelley &amp; Ginger Bill</strong><br>
 <a href="https://youtu.be/3K8znjWN_Ig">https://youtu.be/3K8znjWN_Ig</a></p>
+<h3>C or C++</h3>
+<p><strong>Learn C Programming and OOP with Dr. Chuck <span>feat. classic book by Kernighan and Ritchie</span></strong><br>
+<a href="https://youtu.be/PaPN51Mm5qQ">https://youtu.be/PaPN51Mm5qQ</a></p>
+<h3>Elixir</h3>
+<p><strong>Keynote: Gang of None? Design Patterns in Elixir - José Valim | ElixirConf EU 2024</strong><br>
+<a href="https://youtu.be/agkXUp0hCW8">https://youtu.be/agkXUp0hCW8</a></p>
+<p><strong>(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet</strong><br>
+<a href="https://hyperpolyglot.org/logic">https://hyperpolyglot.org/logic</a></p>
 <h3>Go</h3>
 <p><strong>Cache-Aside using Decorator Design Pattern in Go</strong><br>
 <a href="https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/">https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/</a></p>
@@ -72,11 +100,14 @@ particularly appreciated:</p>
 | 2   | Niko Matsakis     | <a href="https://youtu.be/521NfGf7AR0?t=25024">Type theory for busy engineers</a>                                       |</p>
 <p><strong>This Week in Rust 548</strong><br>
 <a href="https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/">https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/</a></p>
-<p><strong>Build with Naz: Rust async, non-blocking, concurrent, parallel, event loops,
-cancellation safety</strong><br>
-<a href="https://developerlife.com/2024/05/19/effective-async-rust/">https://developerlife.com/2024/05/19/effective-async-rust/</a></p>
+<p><strong>This Week in Rust 549</strong><br>
+<a href="https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/">https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/</a></p>
 <p><strong>Thinking in Iterators</strong><br>
 <a href="https://corrode.dev/blog/iterators/">https://corrode.dev/blog/iterators/</a></p>
+<p><strong>Don't Worry About Lifetimes</strong><br>
+<a href="https://corrode.dev/blog/lifetimes/">https://corrode.dev/blog/lifetimes/</a></p>
+<p><strong>The ultimate guide to Rust newtypes</strong><br>
+<a href="https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes">https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes</a></p>
 <p><strong>Crux: Cross-platform app development in Rust</strong><br>
 <a href="https://redbadger.github.io/crux/">https://redbadger.github.io/crux/</a></p>
 <p><strong>The search for easier safe systems programming</strong><br>
@@ -92,8 +123,14 @@ Focused on readability, learnability, and teachability."</em></p>
 <a href="https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/">https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/</a></p>
 <p><strong>Wasmi's New Execution Engine - Faster Than Ever</strong><br>
 <a href="https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/">https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/</a></p>
+<p>🇮🇹 <strong>YouTube</strong>: @DanieleScasciafratte - <strong>LLVM e WebAssembly</strong><br>
+<a href="https://youtu.be/SowcfxoLm6Y">https://youtu.be/SowcfxoLm6Y</a></p>
 <h3>Zig</h3>
 <p><strong>YouTube</strong>: @DeveloperVoices - <strong>What's Zig got that C, Rust and Go don't have?
 (with Loris Cro)</strong><br>
 <a href="https://youtu.be/5_oqWE9otaE">https://youtu.be/5_oqWE9otaE</a></p>
+<p><strong>Writing a task scheduler in Zig</strong><br>
+<a href="https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/">https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/</a></p>
+<p><strong>Zig: Freeing resources referenced in multiple threads</strong><br>
+<a href="https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/">https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/</a></p>
 ]]></content:encoded></item></channel></rss>

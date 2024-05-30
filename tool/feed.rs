@@ -7,7 +7,7 @@ use expry::{rewind, MemoryPool};
 
 pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
     let release_name = release_file.as_ref().file_name().unwrap().to_string_lossy();
-    // ex: 20240529_20240602
+    // ex: 20240527_20240602
     assert!(release_name.len() == 17);
     let release_date = format!(
         "{}.{}.{} - {}.{}.{}",

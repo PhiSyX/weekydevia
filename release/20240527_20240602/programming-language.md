@@ -12,6 +12,19 @@ Links may be out of date, this is not a newsletter about new resources only.
 **"Boundaries of Language Design" with Andrew Kelley & Ginger Bill**  
 [https://youtu.be/3K8znjWN_Ig](https://youtu.be/3K8znjWN_Ig)
 
+### C or C++
+
+**Learn C Programming and OOP with Dr. Chuck [feat. classic book by Kernighan and Ritchie]**  
+[https://youtu.be/PaPN51Mm5qQ](https://youtu.be/PaPN51Mm5qQ)
+
+### Elixir
+
+**Keynote: Gang of None? Design Patterns in Elixir - José Valim | ElixirConf EU 2024**  
+[https://youtu.be/agkXUp0hCW8](https://youtu.be/agkXUp0hCW8)
+
+**(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet**  
+[https://hyperpolyglot.org/logic](https://hyperpolyglot.org/logic)
+
 ### Go
 
 **Cache-Aside using Decorator Design Pattern in Go**  
@@ -42,12 +55,17 @@ particularly appreciated:
 **This Week in Rust 548**  
 [https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/](https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/)
 
-**Build with Naz: Rust async, non-blocking, concurrent, parallel, event loops,
-cancellation safety**  
-[https://developerlife.com/2024/05/19/effective-async-rust/](https://developerlife.com/2024/05/19/effective-async-rust/)
+**This Week in Rust 549**  
+[https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/](https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/)
 
 **Thinking in Iterators**  
 [https://corrode.dev/blog/iterators/](https://corrode.dev/blog/iterators/)
+
+**Don't Worry About Lifetimes**  
+[https://corrode.dev/blog/lifetimes/](https://corrode.dev/blog/lifetimes/)
+
+**The ultimate guide to Rust newtypes**  
+[https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes](https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes)
 
 **Crux: Cross-platform app development in Rust**  
 [https://redbadger.github.io/crux/](https://redbadger.github.io/crux/)
@@ -69,8 +87,17 @@ cancellation safety**
 **Wasmi's New Execution Engine - Faster Than Ever**  
 [https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 
+🇮🇹 **YouTube**: @DanieleScasciafratte - **LLVM e WebAssembly**  
+[https://youtu.be/SowcfxoLm6Y](https://youtu.be/SowcfxoLm6Y)
+
 ### Zig
 
 **YouTube**: @DeveloperVoices - **What's Zig got that C, Rust and Go don't have?
 (with Loris Cro)**  
 [https://youtu.be/5_oqWE9otaE](https://youtu.be/5_oqWE9otaE)
+
+**Writing a task scheduler in Zig**  
+[https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/](https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/)
+
+**Zig: Freeing resources referenced in multiple threads**  
+[https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/](https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/)
