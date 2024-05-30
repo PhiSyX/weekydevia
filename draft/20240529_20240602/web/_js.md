@@ -7,6 +7,9 @@ https://developer.chrome.com/blog/frameworks-may-2024
 > frameworks. This document provides brief highlights of recent happenings in
 > the JavaScript frameworks ecosystem over the past year or so."_
 
+**ECMAScript 2023 feature: symbols as WeakMap keys**  
+https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html
+
 🇫🇷 **Dessiner des graphiques avec d3js**  
 https://grafikart.fr/tutoriels/graph-d3js-2215
 
