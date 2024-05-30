@@ -22,3 +22,6 @@ https://corrode.dev/blog/iterators/
 
 **Don't Worry About Lifetimes**  
 https://corrode.dev/blog/lifetimes/
+
+**The ultimate guide to Rust newtypes**  
+https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes
