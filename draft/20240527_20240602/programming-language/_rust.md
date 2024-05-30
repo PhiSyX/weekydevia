@@ -16,3 +16,6 @@ particularly appreciated:
 
 **This Week in Rust 548**  
 https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/
+
+**Thinking in Iterators**  
+https://corrode.dev/blog/iterators/
