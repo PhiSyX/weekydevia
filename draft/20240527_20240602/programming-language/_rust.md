@@ -19,3 +19,6 @@ https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/
 
 **Thinking in Iterators**  
 https://corrode.dev/blog/iterators/
+
+**Don't Worry About Lifetimes**  
+https://corrode.dev/blog/lifetimes/
