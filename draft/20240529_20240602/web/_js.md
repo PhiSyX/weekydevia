@@ -15,3 +15,8 @@ https://grafikart.fr/tutoriels/captcha-puzzle-2216
 
 **Automatic Polyfill for Modern Browsers With Vite**  
 https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/
+
+**📨 #187: Next.js, Expo, Popover, rethrow, SWR, React-Query, Astro, PPR, tRPC,
+zsa, Memory leaks, INP, RN IDE, Skia, WebGPU, RNSC, Atlas, Re.Pack, Prisma,
+SwiftUI, Flutter, Angular...**  
+https://thisweekinreact.com/newsletter/187
