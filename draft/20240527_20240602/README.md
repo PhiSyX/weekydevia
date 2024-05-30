@@ -1,6 +1,8 @@
-#include <project.md>
+#include <_project.md>
 
-#include <tooling.md>
+#include <_design-pattern.md>
+
+#include <_tooling.md>
 
 #include <web.md>
 
