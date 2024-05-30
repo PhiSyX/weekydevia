@@ -16,3 +16,5 @@ https://grafikart.fr/tutoriels/graph-d3js-2215
 🇫🇷 **Créer un captcha personnalisé**  
 https://grafikart.fr/tutoriels/captcha-puzzle-2216
 
+**Automatic Polyfill for Modern Browsers With Vite**  
+https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/
