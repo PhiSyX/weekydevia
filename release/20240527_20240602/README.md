@@ -122,7 +122,7 @@ SwiftUI, Flutter, Angular...**
 ### Rust
 
 **Conference RustNL 2024**  
-[https://2024.rustnl.org/live/  ](https://2024.rustnl.org/live/  )
+[https://2024.rustnl.org/live/](https://2024.rustnl.org/live/)
 All the presentations are interesting. However, here are the ones that I
 particularly appreciated:
 
