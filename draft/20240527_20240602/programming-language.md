@@ -8,3 +8,5 @@ https://youtu.be/3K8znjWN_Ig
 #include <programming-language/_elixir.md>
 
 #include <programming-language/_go.md>
+
+#include <programming-language/_rust.md>
