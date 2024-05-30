@@ -9,3 +9,10 @@ https://developer.chrome.com/blog/frameworks-may-2024
 
 **ECMAScript 2023 feature: symbols as WeakMap keys**  
 https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html
+
+🇫🇷 **Dessiner des graphiques avec d3js**  
+https://grafikart.fr/tutoriels/graph-d3js-2215
+
+🇫🇷 **Créer un captcha personnalisé**  
+https://grafikart.fr/tutoriels/captcha-puzzle-2216
+
