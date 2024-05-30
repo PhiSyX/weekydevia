@@ -1,0 +1,20 @@
+[package]
+name = "weekydevia"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "tool/lib.rs"
+
+[[bin]]
+name = "generate"
+path = "tool/bin/generate-release.rs"
+
+[dependencies]
+clap = { version = "4.5.4", features = ["derive"] }
+chrono = { version = "0.4.38" }
+expry = { version = "0.4.0" }
+markdown2html = { version = "0.4.0", package = "markdowny" }
+rss = "2.0.8"
+tokio = { version = "1.37.0", features = ["rt", "macros", "sync"] }
+thiserror = { version = "1.0.61" }

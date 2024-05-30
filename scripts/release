@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [[ "$#" -lt 1 ]]; then 
+    echo "Range date is mandatory, e.g: \`20240527_20240602\` which whould be a directory inside the draft directory";
+    exit 1;
+fi
+
+date="$1"
+args="$2"
+
+cargo run -- -d "./draft/$date" -o "./release/$date" $args
