@@ -23,3 +23,14 @@ https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/
 zsa, Memory leaks, INP, RN IDE, Skia, WebGPU, RNSC, Atlas, Re.Pack, Prisma,
 SwiftUI, Flutter, Angular...**  
 https://thisweekinreact.com/newsletter/187
+
+### AdonisJS
+
+**Filtering By User's Watched Status**  
+https://adocasts.com/lessons/filtering-by-users-watched-status
+
+**Allowing Users To Toggle A Movie As Watched**  
+https://adocasts.com/lessons/allowing-users-to-toggle-a-movie-as-watched
+
+**Defining A Composite Unique Constraint**  
+https://adocasts.com/lessons/defining-a-composite-unique-constraint
