@@ -9,6 +9,7 @@
 
 This command will generate a `release/20240527_20240602` directory containing
 the markdown files from the `draft/20240527_20240602` directory, with the
+
 contents of the default template located in
 [draft/TEMPLATE.md](draft/TEMPLATE.md).
 
