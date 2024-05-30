@@ -20,6 +20,6 @@ a new release.
 
 ## Releases
 
-Last Release: [2024.05.29 - 2024.06.02](release/20240527_20240602/README.md)
+Last Release: [2024.05.27 - 2024.06.02](release/20240527_20240602/README.md)
 
-1. [2024.05.29 - 2024.06.02](release/20240527_20240602/README.md)
+1. [2024.05.27 - 2024.06.02](release/20240527_20240602/README.md)
