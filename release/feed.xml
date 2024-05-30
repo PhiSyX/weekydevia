@@ -1,1 +1,136 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-27 00:00:00 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link></channel></rss>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-30 19:50:37.398406300 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<p>Hello and welcome to another issue of weekydevia. This is a summary of the
+resources, readings and news I've read and found interesting to share this week.</p>
+<p>Links may be out of date, this is not a newsletter about new resources only.</p>
+<hr>
+<h2>Project</h2>
+<p>🇫🇷 <strong>Késaco : ADR ?</strong><br>
+<a href="https://www.sfeir.dev/front/kesaco-adr/">https://www.sfeir.dev/front/kesaco-adr/</a></p>
+<blockquote>
+<p><em>"Peux-tu documenter cela ?" "Pense à écrire une documentation sur ce sujet."
+Ces exigences vous semblent-elles insurmontables ? Découvrez comment les ADRs
+peuvent vous aider à surmonter ces défis en fournissant un cadre structuré
+pour documenter les décisions architecturales.</em></p>
+</blockquote>
+<h2>Design Patterns | SOLID</h2>
+<p>🇧🇷 <strong>SOLID Open/Closed Principle + Design Patterns Strategy e Template Method</strong><br>
+<a href="https://youtu.be/eaCAykuD13o">https://youtu.be/eaCAykuD13o</a></p>
+<h2>IDE / Editor</h2>
+<p><strong>The AI Code Editor</strong><br>
+<a href="https://cursor.sh/">https://cursor.sh/</a></p>
+<blockquote>
+<p><em>"Cursor is the AI-first code editor, built on frontier models, to make you an
+extraordinarily productive engineer."</em></p>
+</blockquote>
+<p><strong>RustRover Is Released and Includes a Free Non-Commercial Option</strong><br>
+<a href="https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/">https://blog.jetbrains.com/rust/2024/05/21/rustrover-is-released-and-includes-a-free-non-commercial-option/</a></p>
+<blockquote>
+<p><em>"A powerhouse IDE for Rust developers"</em></p>
+</blockquote>
+<h2>VM</h2>
+<p><strong>VMware Workstation Pro: Now Available Free for Personal Use</strong><br>
+<a href="https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html">https://blogs.vmware.com/workstation/2024/05/vmware-workstation-pro-now-available-free-for-personal-use.html</a></p>
+<h2>WEB</h2>
+<h3>CSS</h3>
+<p><strong>On compliance vs readability: Generating text colors with CSS</strong><br>
+<a href="https://lea.verou.me/blog/2024/contrast-color/">https://lea.verou.me/blog/2024/contrast-color/</a></p>
+<p><strong>matcha.css</strong> - https://matcha.mizu.sh/</p>
+<blockquote>
+<p><em>"matcha.css is a pure CSS library designed to style HTML elements similarly
+to a default browser stylesheet, eliminating the need for users to manually
+patch their documents."</em></p>
+</blockquote>
+<h3>JavaScript</h3>
+<p><strong>What's new in JavaScript Frameworks (May 2024)</strong><br>
+<a href="https://developer.chrome.com/blog/frameworks-may-2024">https://developer.chrome.com/blog/frameworks-may-2024</a></p>
+<blockquote>
+<p><em>"It can be difficult to keep up with everything that is going with JavaScript
+frameworks. This document provides brief highlights of recent happenings in
+the JavaScript frameworks ecosystem over the past year or so."</em></p>
+</blockquote>
+<p><strong>ECMAScript 2023 feature: symbols as WeakMap keys</strong><br>
+<a href="https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html">https://2ality.com/2024/05/proposal-symbols-as-weakmap-keys.html</a></p>
+<p>🇫🇷 <strong>Dessiner des graphiques avec d3js</strong><br>
+<a href="https://grafikart.fr/tutoriels/graph-d3js-2215">https://grafikart.fr/tutoriels/graph-d3js-2215</a></p>
+<p>🇫🇷 <strong>Créer un captcha personnalisé</strong><br>
+<a href="https://grafikart.fr/tutoriels/captcha-puzzle-2216">https://grafikart.fr/tutoriels/captcha-puzzle-2216</a></p>
+<p><strong>Automatic Polyfill for Modern Browsers With Vite</strong><br>
+<a href="https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/">https://8hob.io/posts/auto-polyfill-for-modern-browsers-with-vite/</a></p>
+<p><strong>📨 #187: Next.js, Expo, Popover, rethrow, SWR, React-Query, Astro, PPR, tRPC,
+zsa, Memory leaks, INP, RN IDE, Skia, WebGPU, RNSC, Atlas, Re.Pack, Prisma,
+SwiftUI, Flutter, Angular...</strong><br>
+<a href="https://thisweekinreact.com/newsletter/187">https://thisweekinreact.com/newsletter/187</a></p>
+<h3>AdonisJS</h3>
+<p><strong>Filtering By User's Watched Status</strong><br>
+<a href="https://adocasts.com/lessons/filtering-by-users-watched-status">https://adocasts.com/lessons/filtering-by-users-watched-status</a></p>
+<p><strong>Allowing Users To Toggle A Movie As Watched</strong><br>
+<a href="https://adocasts.com/lessons/allowing-users-to-toggle-a-movie-as-watched">https://adocasts.com/lessons/allowing-users-to-toggle-a-movie-as-watched</a></p>
+<p><strong>Defining A Composite Unique Constraint</strong><br>
+<a href="https://adocasts.com/lessons/defining-a-composite-unique-constraint">https://adocasts.com/lessons/defining-a-composite-unique-constraint</a></p>
+<h2>Programming language</h2>
+<p><strong>"Boundaries of Language Design" with Andrew Kelley &amp; Ginger Bill</strong><br>
+<a href="https://youtu.be/3K8znjWN_Ig">https://youtu.be/3K8znjWN_Ig</a></p>
+<h3>C or C++</h3>
+<p><strong>Learn C Programming and OOP with Dr. Chuck <span>feat. classic book by Kernighan and Ritchie</span></strong><br>
+<a href="https://youtu.be/PaPN51Mm5qQ">https://youtu.be/PaPN51Mm5qQ</a></p>
+<h3>Elixir</h3>
+<p><strong>Keynote: Gang of None? Design Patterns in Elixir - José Valim | ElixirConf EU 2024</strong><br>
+<a href="https://youtu.be/agkXUp0hCW8">https://youtu.be/agkXUp0hCW8</a></p>
+<p><strong>(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet</strong><br>
+<a href="https://hyperpolyglot.org/logic">https://hyperpolyglot.org/logic</a></p>
+<h3>Go</h3>
+<p><strong>Cache-Aside using Decorator Design Pattern in Go</strong><br>
+<a href="https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/">https://alesr.github.io/posts/cache-aside-using-decorator-design-pattern-in-go/</a></p>
+<p><strong>Building Dynamic Applications with Interpreted Go (Gno @ Golang Serbia Meetup)</strong><br>
+<a href="https://youtu.be/tNM1DHOxIQ8">https://youtu.be/tNM1DHOxIQ8</a></p>
+<p><strong>Blazingly Fast Shadow Stacks for Go</strong><br>
+<a href="https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/">https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/</a></p>
+<h3>Rust</h3>
+<p><strong>Conference RustNL 2024</strong><br>
+<a href="https://2024.rustnl.org/live/++">https://2024.rustnl.org/live/</a>
+All the presentations are interesting. However, here are the ones that I
+particularly appreciated:</p>
+<p>| Day | Speaker           | Title                                                                                                        |
+| --- | ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| 1   | Rik Arends        | <a href="https://youtu.be/XLefuzE-ABU?t=1150">Visual application design for Rust</a>                                    |
+| 1   | Alice Ryhl        | <a href="https://youtu.be/XLefuzE-ABU?t=8507">Arc in the Linux Kernel</a>                                               |
+| 2   | Kevin Boos        | <a href="https://youtu.be/521NfGf7AR0?t=2940">Robius: Immersive and Seamless Multi-platform App Development in Rust</a> |
+| 2   | Jonas Kruckenberg | <a href="https://youtu.be/521NfGf7AR0?t=9820">K23: A secure research OS running WASM</a>                                |
+| 2   | Raph Levien       | <a href="https://youtu.be/521NfGf7AR0?t=19310">Xilem: let's build high performance Rust UI</a>                          |
+| 2   | Niko Matsakis     | <a href="https://youtu.be/521NfGf7AR0?t=25024">Type theory for busy engineers</a>                                       |</p>
+<p><strong>This Week in Rust 548</strong><br>
+<a href="https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/">https://this-week-in-rust.org/blog/2024/05/22/this-week-in-rust-548/</a></p>
+<p><strong>This Week in Rust 549</strong><br>
+<a href="https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/">https://this-week-in-rust.org/blog/2024/05/29/this-week-in-rust-549/</a></p>
+<p><strong>Thinking in Iterators</strong><br>
+<a href="https://corrode.dev/blog/iterators/">https://corrode.dev/blog/iterators/</a></p>
+<p><strong>Don't Worry About Lifetimes</strong><br>
+<a href="https://corrode.dev/blog/lifetimes/">https://corrode.dev/blog/lifetimes/</a></p>
+<p><strong>The ultimate guide to Rust newtypes</strong><br>
+<a href="https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes">https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes</a></p>
+<p><strong>Crux: Cross-platform app development in Rust</strong><br>
+<a href="https://redbadger.github.io/crux/">https://redbadger.github.io/crux/</a></p>
+<p><strong>The search for easier safe systems programming</strong><br>
+<a href="https://www.sophiajt.com/search-for-easier-safe-systems-programming/">https://www.sophiajt.com/search-for-easier-safe-systems-programming/</a></p>
+<blockquote>
+<p><em>"Announcing June, a safe systems language that's a sister language to Rust.
+Focused on readability, learnability, and teachability."</em></p>
+</blockquote>
+<h3>WASM</h3>
+<p><strong>WebAssembly: A promising technology that is quietly being sabotaged</strong><br>
+<a href="https://kerkour.com/webassembly-wasi-preview2">https://kerkour.com/webassembly-wasi-preview2</a></p>
+<p><strong>Why We Chose WebAssembly (Wasm) for Our Edge Runtime</strong><br>
+<a href="https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/">https://thenewstack.io/why-we-chose-webassembly-wasm-for-our-edge-runtime/</a></p>
+<p><strong>Wasmi's New Execution Engine - Faster Than Ever</strong><br>
+<a href="https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/">https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/</a></p>
+<p>🇮🇹 <strong>YouTube</strong>: @DanieleScasciafratte - <strong>LLVM e WebAssembly</strong><br>
+<a href="https://youtu.be/SowcfxoLm6Y">https://youtu.be/SowcfxoLm6Y</a></p>
+<h3>Zig</h3>
+<p><strong>YouTube</strong>: @DeveloperVoices - <strong>What's Zig got that C, Rust and Go don't have?
+(with Loris Cro)</strong><br>
+<a href="https://youtu.be/5_oqWE9otaE">https://youtu.be/5_oqWE9otaE</a></p>
+<p><strong>Writing a task scheduler in Zig</strong><br>
+<a href="https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/">https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/</a></p>
+<p><strong>Zig: Freeing resources referenced in multiple threads</strong><br>
+<a href="https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/">https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/</a></p>
+]]></content:encoded></item></channel></rss>
