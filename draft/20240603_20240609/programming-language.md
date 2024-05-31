@@ -6,4 +6,6 @@
 
 #include <programming-language/_php.md>
 
+#include <programming-language/_rust.md>
+
 #include <programming-language/_wasm.md>
