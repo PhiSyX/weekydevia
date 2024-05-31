@@ -7,3 +7,6 @@ https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/
 https://coderoasis.com/clang-isnt-language/
 https://coderoasis.com/clang-isnt-language-part-2/
 https://coderoasis.com/clang-isnt-language-part-3/
+
+**Safe, Borrow-Checked, C++**
+https://cppcast.com/safe-borrow-checked-cpp/
