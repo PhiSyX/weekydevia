@@ -8,4 +8,10 @@ fi
 date="$1"
 args="$2"
 
-cargo run -- -d "./draft/$date" -o "./release/$date" $args
+if test -d ./target/release; then
+    ./target/release/generate -d "./draft/$date" -o "./release/$date" $args
+elif test -d ./target/debug; then
+    ./target/debug/generate -d "./draft/$date" -o "./release/$date" $args
+else
+    cargo run --release -- -d "./draft/$date" -o "./release/$date" $args
+fi
