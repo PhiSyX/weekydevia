@@ -8,3 +8,6 @@ https://www.irif.fr/_media/users/gduboc/elixir-types.pdf
 
 [PDF] 🇫🇷 **Un prototype de système de types graduels ensemblistes pour Elixir**  
 https://hal.science/hal-04406407/document
+
+**Modeling Systems With Actors**  
+https://eigr.io/blog/modeling-systems-with-actors/
