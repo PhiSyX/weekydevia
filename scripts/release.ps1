@@ -5,4 +5,10 @@ if ( $args.count -lt 1 ) {
 
 $date = $args[0]
 
-cargo run -- -d ./draft/$date -o ./release/$date $args[1]
+if (Test-Path -Path ./target/release) {
+    ./target/release/generate.exe -d ./draft/$date -o ./release/$date $args[1]
+} elseif (Test-Path -Path ./target/debug) {
+    ./target/debug/generate.exe -d ./draft/$date -o ./release/$date $args[1]
+} else {
+    cargo run --release -- -d ./draft/$date -o ./release/$date $args[1]
+}
