@@ -4,4 +4,6 @@
 
 #include <programming-language/_elixir.md>
 
+#include <programming-language/_php.md>
+
 #include <programming-language/_wasm.md>
