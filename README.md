@@ -23,6 +23,7 @@ a new release.
 Releases are published every Thursday, except in case of unavailability or lack
 of links.
 
-Last Release: [2024.05.27 - 2024.06.02](release/20240527_20240602/README.md)
+Last Release: [2024.06.03 - 2024.06.09](release/20240603_20240609/README.md)
 
-1. [2024.05.27 - 2024.06.02](release/20240527_20240602/README.md)
+- [2024.06.03 - 2024.06.09](release/20240603_20240609/README.md)
+- [2024.05.27 - 2024.06.02](release/20240527_20240602/README.md)
