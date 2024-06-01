@@ -11,3 +11,8 @@ https://hal.science/hal-04406407/document
 
 **Modeling Systems With Actors**  
 https://eigr.io/blog/modeling-systems-with-actors/
+
+### Gleam
+
+**Découverte de Gleam, un langage type-safe sur la BEAM!**  
+https://christopher.engineering/blog/introduction-gleam/
