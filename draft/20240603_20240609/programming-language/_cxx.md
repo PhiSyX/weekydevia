@@ -10,3 +10,6 @@ https://coderoasis.com/clang-isnt-language-part-3/
 
 **Safe, Borrow-Checked, C++**
 https://cppcast.com/safe-borrow-checked-cpp/
+
+**A graphical depiction of the steps in building a C++ executable, with XAML and packaging**  
+https://devblogs.microsoft.com/oldnewthing/20240531-00/?p=109825
