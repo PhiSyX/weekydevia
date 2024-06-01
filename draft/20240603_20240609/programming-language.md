@@ -11,3 +11,5 @@
 #include <programming-language/_rust.md>
 
 #include <programming-language/_wasm.md>
+
+#include <programming-language/_zig.md>
