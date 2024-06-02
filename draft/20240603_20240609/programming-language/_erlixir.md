@@ -1,4 +1,4 @@
-### Elixir
+### Erlang / Elixir
 
 [PDF] **The Design Principles of the Elixir Type System**  
 https://www.irif.fr/_media/users/gduboc/elixir-types.pdf
@@ -11,6 +11,9 @@ https://hal.science/hal-04406407/document
 
 **Modeling Systems With Actors**  
 https://eigr.io/blog/modeling-systems-with-actors/
+
+**Erlang/OTP 27 Highlights**  
+https://www.erlang.org/blog/highlights-otp-27/
 
 **OTP 27 and Blend for Lib Maintainers**  
 https://podcast.thinkingelixir.com/204
