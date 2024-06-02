@@ -72,6 +72,10 @@ impl Template {
             .join(line.replace("#include <", "").replace('>', ""));
 
         if !relative_filepath.is_file() {
+            eprintln!(
+                "WARN: il ne s'agit pas d'un fichier valide: {}",
+                relative_filepath.display()
+            );
             return None;
         }
 
@@ -105,7 +109,7 @@ impl Template {
                     _ = self.tx().send(TemplateState::EOF);
                     break;
                 }
-                
+
                 let mut line = line.to_owned();
                 if line.starts_with("http") {
                     line = format!("[{0}]({0})", line.trim_end());

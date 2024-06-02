@@ -24,10 +24,10 @@ https://youtu.be/ysOIlNuXt8c
 **Elixir Community Kraków**  
 https://www.youtube.com/playlist?list=PLSk21zn8fFZDWw8N_gXntYY0oQnRFDso0
 
-**Kill your Phoenix Context**
+**Kill your Phoenix Context**  
 https://peterullrich.com/phoenix-contexts
 
 ### Gleam
 
-**Découverte de Gleam, un langage type-safe sur la BEAM!**  
+🇫🇷 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
 https://christopher.engineering/blog/introduction-gleam/
