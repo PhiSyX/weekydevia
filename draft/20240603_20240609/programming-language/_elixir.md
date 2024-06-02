@@ -12,6 +12,9 @@ https://hal.science/hal-04406407/document
 **Modeling Systems With Actors**  
 https://eigr.io/blog/modeling-systems-with-actors/
 
+**OTP 27 and Blend for Lib Maintainers**  
+https://podcast.thinkingelixir.com/204
+
 ### Gleam
 
 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
