@@ -15,3 +15,8 @@ https://colinhacks.com/essays/live-types-typescript-monorepo
 
 **ECMAScript 2024 features: resizing and transferring ArrayBuffers**  
 https://2ality.com/2024/06/array-buffers-es2024.html
+
+### ReScript
+
+**no one writes JavaScript anyway.. ReScript: the ReasonML successor**
+https://youtu.be/HROUpdky9SM
