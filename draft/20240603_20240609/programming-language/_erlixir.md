@@ -27,6 +27,9 @@ https://www.youtube.com/playlist?list=PLSk21zn8fFZDWw8N_gXntYY0oQnRFDso0
 **Kill your Phoenix Context**  
 https://peterullrich.com/phoenix-contexts
 
+**Protecting sensitive data in Elixir GenServers**  
+https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/
+
 ### Gleam
 
 🇫🇷 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
