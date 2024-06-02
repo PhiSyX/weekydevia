@@ -15,6 +15,9 @@ https://eigr.io/blog/modeling-systems-with-actors/
 **OTP 27 and Blend for Lib Maintainers**  
 https://podcast.thinkingelixir.com/204
 
+**Stingray: Remote management for firmware development**  
+https://youtu.be/ysOIlNuXt8c
+
 ### Gleam
 
 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
