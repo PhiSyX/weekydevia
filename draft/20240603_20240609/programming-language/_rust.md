@@ -11,3 +11,6 @@ https://o-santi.github.io/blog/rust-is-not-about-memory-safety/
 
 **The borrow checker within**  
 https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/
+
+**How to build a plugin system in Rust**  
+https://www.arroyo.dev/blog/rust-plugin-systems
