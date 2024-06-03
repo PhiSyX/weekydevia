@@ -1,5 +1,8 @@
 ### Web
 
+**New to the web platform in May**  
+https://web.dev/blog/web-platform-05-2024?hl=en
+
 ### CSS
 
 **An exploration of the pain points that CSS gap solves**  
