@@ -1,5 +1,7 @@
 #include <_opinion.md>
 
+#include <_design-pattern.md>
+
 #include <_devops.md>
 
 #include <_database.md>
