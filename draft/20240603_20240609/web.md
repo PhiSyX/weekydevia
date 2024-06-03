@@ -3,6 +3,17 @@
 **New to the web platform in May**  
 https://web.dev/blog/web-platform-05-2024?hl=en
 
+### Tooling
+
+**crawlee**  
+https://github.com/apify/crawlee
+
+> _"A web scraping and browser automation library for Node.js to build
+> reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs,
+> RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites.
+> Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful
+> and headless mode. With proxy rotation."_
+
 ### CSS
 
 **An exploration of the pain points that CSS gap solves**  
