@@ -14,3 +14,9 @@ https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-with
 
 **How to build a plugin system in Rust**  
 https://www.arroyo.dev/blog/rust-plugin-systems
+
+**On Dependency Usage in Rust**
+https://landaire.net/on-dependency-usage-in-rust/
+
+> _"Rust and JS aren't bad for encouraging dependency use -- your favorite
+> language's tools just suck."_
