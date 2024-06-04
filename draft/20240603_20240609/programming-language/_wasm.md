@@ -8,5 +8,8 @@ https://microarch.club/episodes/1000/
 > discuss mitigating side-channel attacks in software, and designing high
 > performance virtual machines."_
 
+**WebAssembly JSPI has a new API**  
+https://v8.dev/blog/jspi-newapi
+
 **Running PHP blazingly fast at the Edge with WebAssembly**  
 https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm
