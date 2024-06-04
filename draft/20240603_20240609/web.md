@@ -30,6 +30,9 @@ https://colinhacks.com/essays/live-types-typescript-monorepo
 **ECMAScript 2024 features: resizing and transferring ArrayBuffers**  
 https://2ality.com/2024/06/array-buffers-es2024.html
 
+**AdonisJS 6 Access Token Authentication in 20 Minutes**  
+https://adocasts.com/lessons/adonisjs-6-access-token-authentication-in-20-minutes
+
 ### ReScript
 
 **no one writes JavaScript anyway.. ReScript: the ReasonML successor**  
