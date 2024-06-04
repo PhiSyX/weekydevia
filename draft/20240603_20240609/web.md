@@ -19,7 +19,7 @@ https://github.com/apify/crawlee
 **An exploration of the pain points that CSS gap solves**  
 https://ishadeed.com/article/the-gap/
 
-### JavaScript
+### JavaScript / TypeScript
 
 **Why is Vite Everywhere? | Evan You**  
 https://youtu.be/4_uYqae42uc
@@ -32,6 +32,9 @@ https://2ality.com/2024/06/array-buffers-es2024.html
 
 **AdonisJS 6 Access Token Authentication in 20 Minutes**  
 https://adocasts.com/lessons/adonisjs-6-access-token-authentication-in-20-minutes
+
+**Testing Types in TypeScript**  
+https://frontendmasters.com/blog/testing-types-in-typescript/
 
 ### ReScript
 
