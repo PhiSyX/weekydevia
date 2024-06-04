@@ -36,6 +36,9 @@ https://adocasts.com/lessons/adonisjs-6-access-token-authentication-in-20-minute
 **Testing Types in TypeScript**  
 https://frontendmasters.com/blog/testing-types-in-typescript/
 
+**Node Weekly 534**
+https://nodeweekly.com/issues/534
+
 ### ReScript
 
 **no one writes JavaScript anyway.. ReScript: the ReasonML successor**  
