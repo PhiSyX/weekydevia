@@ -3,7 +3,7 @@
 **New to the web platform in May**  
 https://web.dev/blog/web-platform-05-2024?hl=en
 
-### Tooling
+#### Tooling
 
 **crawlee**  
 https://github.com/apify/crawlee
@@ -14,12 +14,12 @@ https://github.com/apify/crawlee
 > Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful
 > and headless mode. With proxy rotation."_
 
-### CSS
+#### CSS
 
 **An exploration of the pain points that CSS gap solves**  
 https://ishadeed.com/article/the-gap/
 
-### JavaScript / TypeScript
+#### JavaScript / TypeScript
 
 **Why is Vite Everywhere? | Evan You**  
 https://youtu.be/4_uYqae42uc
@@ -39,7 +39,7 @@ https://frontendmasters.com/blog/testing-types-in-typescript/
 **Node Weekly 534**
 https://nodeweekly.com/issues/534
 
-### ReScript
+#### ReScript
 
 **no one writes JavaScript anyway.. ReScript: the ReasonML successor**  
 https://youtu.be/HROUpdky9SM
