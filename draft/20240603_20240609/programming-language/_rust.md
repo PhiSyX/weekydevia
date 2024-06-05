@@ -23,3 +23,6 @@ https://landaire.net/on-dependency-usage-in-rust/
 
 **Enter paradis — A new chapter in Rust's parallelism story**  
 https://andreaslongva.com/blog/enter-paradis/
+
+**Context Managers: Undroppable Types for Free**  
+https://blog.yoshuawuyts.com/achieving-undroppable-types-by-leveraging-context-managers/
