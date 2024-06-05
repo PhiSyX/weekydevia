@@ -26,3 +26,6 @@ https://andreaslongva.com/blog/enter-paradis/
 
 **Context Managers: Undroppable Types for Free**  
 https://blog.yoshuawuyts.com/achieving-undroppable-types-by-leveraging-context-managers/
+
+[PDF] **When Is Parallelism Fearless and Zero-Cost with Rust?**  
+https://www.eecg.utoronto.ca/~mcj/papers/2024.rpb.spaa.pdf
