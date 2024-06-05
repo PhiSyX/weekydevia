@@ -20,3 +20,6 @@ https://landaire.net/on-dependency-usage-in-rust/
 
 > _"Rust and JS aren't bad for encouraging dependency use -- your favorite
 > language's tools just suck."_
+
+**Enter paradis — A new chapter in Rust's parallelism story**  
+https://andreaslongva.com/blog/enter-paradis/
