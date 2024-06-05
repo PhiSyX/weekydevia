@@ -39,6 +39,9 @@ https://frontendmasters.com/blog/testing-types-in-typescript/
 **Node Weekly 534**
 https://nodeweekly.com/issues/534
 
+**Your Node is Leaking Memory? setTimeout Could be the Reason**  
+https://lucumr.pocoo.org/2024/6/5/node-timeout/
+
 #### ReScript
 
 **no one writes JavaScript anyway.. ReScript: the ReasonML successor**  
