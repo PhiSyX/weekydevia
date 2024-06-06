@@ -34,3 +34,6 @@ https://www.eecg.utoronto.ca/~mcj/papers/2024.rpb.spaa.pdf
 https://barretts.club/posts/rust-for-the-engine/
 
 > _"Macros are cool! But, if we're going to create another language anyways..."_
+
+**This Week in Rust 550**  
+https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/
