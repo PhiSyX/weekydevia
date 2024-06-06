@@ -38,5 +38,7 @@ https://lambdaland.org/posts/2024-06-03_chorex_0_1/
 🇫🇷 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
 https://christopher.engineering/blog/introduction-gleam/
 
-_Code BEAM Europe 2023_ **End-to-end types: full-stack Web apps with Gleam**  
-https://youtu.be/eVtkYQva0Ic
+_Code BEAM Europe 2023_ https://www.youtube.com/@CodeSync/videos
+
+1. **End-to-end types: full-stack Web apps with Gleam**  
+   https://youtu.be/eVtkYQva0Ic
