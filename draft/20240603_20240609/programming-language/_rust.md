@@ -37,3 +37,6 @@ https://barretts.club/posts/rust-for-the-engine/
 
 **This Week in Rust 550**  
 https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/
+
+**A network diagnostic tool**  
+https://github.com/fujiapple852/trippy
