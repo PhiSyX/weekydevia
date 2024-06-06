@@ -20,3 +20,6 @@ https://www.circle-lang.org/site/intro/
 
 **The limits of `[[maybe_unused]]`**  
 https://www.sandordargo.com/blog/2024/06/05/the-limits-of-maybe-unused
+
+**Using namespaces effectively**  
+https://biowpn.github.io/bioweapon/2024/06/05/using-namespaces-effectively.html
