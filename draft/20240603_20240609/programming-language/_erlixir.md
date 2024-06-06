@@ -33,6 +33,11 @@ https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-serv
 **Chorex: Guaranteeing Deadlock Freedom in Elixir**  
 https://lambdaland.org/posts/2024-06-03_chorex_0_1/
 
+_Elixir.Webnesday #8_
+
+1. **Using Ecto (without db) for validating form**
+   https://youtu.be/Vd4RHgVo3kQ
+
 ### Gleam
 
 🇫🇷 **Découverte de Gleam, un langage type-safe sur la BEAM!**  
