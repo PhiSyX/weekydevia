@@ -23,3 +23,6 @@ https://www.sandordargo.com/blog/2024/06/05/the-limits-of-maybe-unused
 
 **Using namespaces effectively**  
 https://biowpn.github.io/bioweapon/2024/06/05/using-namespaces-effectively.html
+
+**C++ safety, in context**  
+https://herbsutter.com/2024/03/11/safety-in-context/
