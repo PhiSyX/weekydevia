@@ -11,3 +11,11 @@ https://adocasts.com/lessons/persist-filters-easily-with-lucids-query-string-met
 > string method. Follow this step-by-step guide to clean up your code, apply the
 > .queryString method from Lucid, and ensure seamless pagination for your web
 > applications._
+
+**How to Create and Fix Missing User Profiles in Your Application**  
+https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your-application
+
+> _Learn how to create and manage user profiles in your application. This
+> tutorial covers adding an edit profile button, setting up routes and
+> controllers, ensuring profile creation during registration, handling existing
+> users without profiles, and verifying_
