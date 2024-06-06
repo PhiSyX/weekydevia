@@ -29,3 +29,8 @@ https://blog.yoshuawuyts.com/achieving-undroppable-types-by-leveraging-context-m
 
 [PDF] **When Is Parallelism Fearless and Zero-Cost with Rust?**  
 https://www.eecg.utoronto.ca/~mcj/papers/2024.rpb.spaa.pdf
+
+**Rust is for the Engine, Not the Game**  
+https://barretts.club/posts/rust-for-the-engine/
+
+> _"Macros are cool! But, if we're going to create another language anyways..."_
