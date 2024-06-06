@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-05-30 19:50:37.398406300 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-06-06 11:39:38.370925900 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
@@ -133,4 +133,214 @@ Focused on readability, learnability, and teachability."</em></p>
 <a href="https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/">https://www.openmymind.net/Writing-a-Task-Scheduler-in-Zig/</a></p>
 <p><strong>Zig: Freeing resources referenced in multiple threads</strong><br>
 <a href="https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/">https://www.openmymind.net/Zig-Freeing-Resources-Referenced-In-Multiple-Threads/</a></p>
+]]></content:encoded></item><item><title>weekydevia: 2024.06.03 - 2024.06.609</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240603_20240609/README.md</link><description><![CDATA[Resources of the week (2024.06.03 - 2024.06.609)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-06-06 11:39:38.370925900 UTC</pubDate><content:encoded><![CDATA[<h1>2024.06.03 - 2024.06.09</h1>
+<p>Hello and welcome to another issue of weekydevia. This is a summary of the
+resources, readings and news I've read and found interesting to share this week.</p>
+<p>Links may be out of date, this is not a newsletter about new resources only.</p>
+<hr>
+<h2>Opinion</h2>
+<p><strong>From Open Source to Source Available: How Things Changed</strong><br>
+<a href="https://news.itsfoss.com/open-source-source-available/">https://news.itsfoss.com/open-source-source-available/</a></p>
+<h2>Performance / Optimization</h2>
+<p><strong>How we used esbuild to reduce our browser extension build times by 90%</strong><br>
+<a href="https://blog.1password.com/new-extension-build-system/">https://blog.1password.com/new-extension-build-system/</a></p>
+<h2>Design Pattern / SOLID</h2>
+<p>🇫🇷 <strong>Les Design Patterns structurels - Adaptateur</strong><br>
+<a href="https://www.sfeir.dev/back/les-design-patterns-structurel-adaptateur/">https://www.sfeir.dev/back/les-design-patterns-structurel-adaptateur/</a></p>
+<p>🇧🇷 <strong>SOLID DIP Dependency Inversion Principle + Design Patterns Adapter, Abstract Factory e Singleton</strong><br>
+<a href="https://youtu.be/9JBU-Fh3bz4">https://youtu.be/9JBU-Fh3bz4</a></p>
+<h2>DevOps / SysAdmin</h2>
+<p>🇫🇷 <strong>Kubernetes : lister les pods sans ressources : json/jq</strong><br>
+<a href="https://youtu.be/J3DMFkRsu0A">https://youtu.be/J3DMFkRsu0A</a></p>
+<p>🇫🇷 <strong><span>Rennes DevOps</span> Docker Compose est mort, vive Docker Compose !</strong><br>
+<a href="https://youtu.be/RGTmboK0KM4">https://youtu.be/RGTmboK0KM4</a></p>
+<p>🇫🇷 <strong>Infra de A à Z - 27. Ansible - hardening &amp; intégration</strong><br>
+<a href="https://youtu.be/0_fnUXOGBM4">https://youtu.be/0_fnUXOGBM4</a></p>
+<h2>Database</h2>
+<p><strong>Tools you might not know: DuckDB (plus: the magic of WASM)</strong><br>
+<a href="https://csvbase.com/blog/6">https://csvbase.com/blog/6</a></p>
+<p><strong>7 Must-know Strategies to Scale Your Database</strong><br>
+<a href="https://blog.bytebytego.com/p/ep114-7-must-know-strategies-to-scale">https://blog.bytebytego.com/p/ep114-7-must-know-strategies-to-scale</a></p>
+<h3>Web</h3>
+<p><strong>New to the web platform in May</strong><br>
+<a href="https://web.dev/blog/web-platform-05-2024?hl=en">https://web.dev/blog/web-platform-05-2024?hl=en</a></p>
+<h4>Tooling</h4>
+<p><strong>crawlee</strong><br>
+<a href="https://github.com/apify/crawlee">https://github.com/apify/crawlee</a></p>
+<blockquote>
+<p><em>"A web scraping and browser automation library for Node.js to build
+reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs,
+RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites.
+Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful
+and headless mode. With proxy rotation."</em></p>
+</blockquote>
+<h4>CSS</h4>
+<p><strong>An exploration of the pain points that CSS gap solves</strong><br>
+<a href="https://ishadeed.com/article/the-gap/">https://ishadeed.com/article/the-gap/</a></p>
+<h4>JavaScript / TypeScript</h4>
+<p><strong>Why is Vite Everywhere? | Evan You</strong><br>
+<a href="https://youtu.be/4_uYqae42uc">https://youtu.be/4_uYqae42uc</a></p>
+<p><strong>Live types in a TypeScript monorepo</strong><br>
+<a href="https://colinhacks.com/essays/live-types-typescript-monorepo">https://colinhacks.com/essays/live-types-typescript-monorepo</a></p>
+<p><strong>ECMAScript 2024 features: resizing and transferring ArrayBuffers</strong><br>
+<a href="https://2ality.com/2024/06/array-buffers-es2024.html">https://2ality.com/2024/06/array-buffers-es2024.html</a></p>
+<p><strong>AdonisJS 6 Access Token Authentication in 20 Minutes</strong><br>
+<a href="https://adocasts.com/lessons/adonisjs-6-access-token-authentication-in-20-minutes">https://adocasts.com/lessons/adonisjs-6-access-token-authentication-in-20-minutes</a></p>
+<p><strong>Testing Types in TypeScript</strong><br>
+<a href="https://frontendmasters.com/blog/testing-types-in-typescript/">https://frontendmasters.com/blog/testing-types-in-typescript/</a></p>
+<p><strong>Node Weekly 534</strong>
+<a href="https://nodeweekly.com/issues/534">https://nodeweekly.com/issues/534</a></p>
+<p><strong>Your Node is Leaking Memory? setTimeout Could be the Reason</strong><br>
+<a href="https://lucumr.pocoo.org/2024/6/5/node-timeout/">https://lucumr.pocoo.org/2024/6/5/node-timeout/</a></p>
+<h4>ReScript</h4>
+<p><strong>no one writes JavaScript anyway.. ReScript: the ReasonML successor</strong><br>
+<a href="https://youtu.be/HROUpdky9SM">https://youtu.be/HROUpdky9SM</a></p>
+<h2>Programming language</h2>
+<h3>C or C++</h3>
+<p><strong>An Extensive Benchmark of C and C++ Hash Tables</strong><br>
+<a href="https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/">https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/</a></p>
+<p><strong>C is not a Programming Language Anymore for Developers</strong></p>
+<ol>
+<li><p>https://coderoasis.com/clang-isnt-language/</p>
+</li>
+<li><p>https://coderoasis.com/clang-isnt-language-part-2/</p>
+</li>
+<li><p>https://coderoasis.com/clang-isnt-language-part-3/</p>
+</li>
+</ol>
+<p><strong>Safe, Borrow-Checked, C++</strong><br>
+<a href="https://cppcast.com/safe-borrow-checked-cpp/">https://cppcast.com/safe-borrow-checked-cpp/</a></p>
+<p><strong>A graphical depiction of the steps in building a C++ executable, with XAML and packaging</strong><br>
+<a href="https://devblogs.microsoft.com/oldnewthing/20240531-00/?p=109825">https://devblogs.microsoft.com/oldnewthing/20240531-00/?p=109825</a></p>
+<p><strong>Memory safety</strong><br>
+<a href="https://www.circle-lang.org/site/intro/">https://www.circle-lang.org/site/intro/</a></p>
+<p><strong>The limits of <code>[[maybe_unused]]</code>.</strong><br>
+<a href="https://www.sandordargo.com/blog/2024/06/05/the-limits-of-maybe-unused">https://www.sandordargo.com/blog/2024/06/05/the-limits-of-maybe-unused</a></p>
+<p><strong>Using namespaces effectively</strong><br>
+<a href="https://biowpn.github.io/bioweapon/2024/06/05/using-namespaces-effectively.html">https://biowpn.github.io/bioweapon/2024/06/05/using-namespaces-effectively.html</a></p>
+<p><strong>C++ safety, in context</strong><br>
+<a href="https://herbsutter.com/2024/03/11/safety-in-context/">https://herbsutter.com/2024/03/11/safety-in-context/</a></p>
+<h3>Erlang / Elixir</h3>
+<p><span>PDF</span> <strong>The Design Principles of the Elixir Type System</strong><br>
+<a href="https://www.irif.fr/_media/users/gduboc/elixir-types.pdf">https://www.irif.fr/_media/users/gduboc/elixir-types.pdf</a></p>
+<blockquote>
+<p><em>"The Art, Science, and Engineering of Programming - Best Paper of the Year
+Award"</em></p>
+</blockquote>
+<p><span>PDF</span> 🇫🇷 <strong>Un prototype de système de types graduels ensemblistes pour Elixir</strong><br>
+<a href="https://hal.science/hal-04406407/document">https://hal.science/hal-04406407/document</a></p>
+<p><strong>Modeling Systems With Actors</strong><br>
+<a href="https://eigr.io/blog/modeling-systems-with-actors/">https://eigr.io/blog/modeling-systems-with-actors/</a></p>
+<p><strong>Erlang/OTP 27 Highlights</strong><br>
+<a href="https://www.erlang.org/blog/highlights-otp-27/">https://www.erlang.org/blog/highlights-otp-27/</a></p>
+<p><strong>OTP 27 and Blend for Lib Maintainers</strong><br>
+<a href="https://podcast.thinkingelixir.com/204">https://podcast.thinkingelixir.com/204</a></p>
+<p><strong>Stingray: Remote management for firmware development</strong><br>
+<a href="https://youtu.be/ysOIlNuXt8c">https://youtu.be/ysOIlNuXt8c</a></p>
+<p><strong>Elixir Community Kraków</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLSk21zn8fFZDWw8N_gXntYY0oQnRFDso0">https://www.youtube.com/playlist?list=PLSk21zn8fFZDWw8N_gXntYY0oQnRFDso0</a></p>
+<p><strong>Kill your Phoenix Context</strong><br>
+<a href="https://peterullrich.com/phoenix-contexts">https://peterullrich.com/phoenix-contexts</a></p>
+<p><strong>Protecting sensitive data in Elixir GenServers</strong><br>
+<a href="https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/">https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/</a></p>
+<p><strong>Chorex: Guaranteeing Deadlock Freedom in Elixir</strong><br>
+<a href="https://lambdaland.org/posts/2024-06-03_chorex_0_1/">https://lambdaland.org/posts/2024-06-03_chorex_0_1/</a></p>
+<p><em>Elixir.Webnesday #8</em></p>
+<ol>
+<li><p><strong>Using Ecto (without db) for validating form</strong>
+https://youtu.be/Vd4RHgVo3kQ</p>
+</li>
+</ol>
+<h3>Gleam</h3>
+<p>🇫🇷 <strong>Découverte de Gleam, un langage type-safe sur la BEAM!</strong><br>
+<a href="https://christopher.engineering/blog/introduction-gleam/">https://christopher.engineering/blog/introduction-gleam/</a></p>
+<p><em>Code BEAM Europe 2023</em> https://www.youtube.com/@CodeSync/videos</p>
+<ol>
+<li><p><strong>End-to-end types: full-stack Web apps with Gleam</strong><br>
+https://youtu.be/eVtkYQva0Ic</p>
+</li>
+</ol>
+<h3>Go</h3>
+<p><strong>Sentinel errors and errors.Is() slow your code down by 3000%</strong><br>
+<a href="https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/">https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/</a></p>
+<p><strong>Don't name packages common nouns</strong><br>
+<a href="https://brandur.org/fragments/go-no-common-nouns">https://brandur.org/fragments/go-no-common-nouns</a></p>
+<p><strong>(Mostly) Deterministic Simulation Testing in Go</strong><br>
+<a href="https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go">https://www.polarsignals.com/blog/posts/2024/05/28/mostly-dst-in-go</a></p>
+<blockquote>
+<p><em>"How we used WASM and some Go runtime modifications to run deterministic
+simulation tests against FrostDB"</em></p>
+</blockquote>
+<h3>PHP</h3>
+<p><strong>Mastering PHPUnit</strong></p>
+<ol>
+<li><p><em>Introduction</em><br>
+https://backendtea.com/post/phpunit-introduction/</p>
+</li>
+<li><p><em>Writing Your First Test with PHPUnit</em><br>
+https://backendtea.com/post/phpunit-your-first-tests/</p>
+</li>
+<li><p><em>Using data providers</em><br>
+https://backendtea.com/post/phpunit-data-providers/</p>
+</li>
+<li><p><em>Using Mocks and Stubs</em><br>
+https://backendtea.com/post/phpunit-mock-and-stub/</p>
+</li>
+</ol>
+<h3>Rust</h3>
+<p><strong>Exploring Seamless Rust Interop for Newer Languages, Part 1</strong><br>
+<a href="https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1">https://verdagon.dev/blog/exploring-seamless-rust-interop-part-1</a></p>
+<p><strong>Rust and dynamically-sized thin pointers</strong><br>
+<a href="https://john-millikin.com/rust-and-dynamically-sized-thin-pointers">https://john-millikin.com/rust-and-dynamically-sized-thin-pointers</a></p>
+<p><strong>rust is not about memory safety</strong><br>
+<a href="https://o-santi.github.io/blog/rust-is-not-about-memory-safety/">https://o-santi.github.io/blog/rust-is-not-about-memory-safety/</a></p>
+<p><strong>The borrow checker within</strong><br>
+<a href="https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/">https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/</a></p>
+<p><strong>How to build a plugin system in Rust</strong><br>
+<a href="https://www.arroyo.dev/blog/rust-plugin-systems">https://www.arroyo.dev/blog/rust-plugin-systems</a></p>
+<p><strong>On Dependency Usage in Rust</strong>
+<a href="https://landaire.net/on-dependency-usage-in-rust/">https://landaire.net/on-dependency-usage-in-rust/</a></p>
+<blockquote>
+<p><em>"Rust and JS aren't bad for encouraging dependency use -- your favorite
+language's tools just suck."</em></p>
+</blockquote>
+<p><strong>Enter paradis — A new chapter in Rust's parallelism story</strong><br>
+<a href="https://andreaslongva.com/blog/enter-paradis/">https://andreaslongva.com/blog/enter-paradis/</a></p>
+<p><strong>Context Managers: Undroppable Types for Free</strong><br>
+<a href="https://blog.yoshuawuyts.com/achieving-undroppable-types-by-leveraging-context-managers/">https://blog.yoshuawuyts.com/achieving-undroppable-types-by-leveraging-context-managers/</a></p>
+<p><span>PDF</span> <strong>When Is Parallelism Fearless and Zero-Cost with Rust?</strong><br>
+<a href="https://www.eecg.utoronto.ca/~mcj/papers/2024.rpb.spaa.pdf">https://www.eecg.utoronto.ca/~mcj/papers/2024.rpb.spaa.pdf</a></p>
+<p><strong>Rust is for the Engine, Not the Game</strong><br>
+<a href="https://barretts.club/posts/rust-for-the-engine/">https://barretts.club/posts/rust-for-the-engine/</a></p>
+<blockquote>
+<p><em>"Macros are cool! But, if we're going to create another language anyways..."</em></p>
+</blockquote>
+<p><strong>This Week in Rust 550</strong><br>
+<a href="https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/">https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/</a></p>
+<p><strong>A network diagnostic tool</strong><br>
+<a href="https://github.com/fujiapple852/trippy">https://github.com/fujiapple852/trippy</a></p>
+<p><strong>Building Plain Old Data from Scratch</strong><br>
+<a href="https://onevariable.com/blog/pods-from-scratch/">https://onevariable.com/blog/pods-from-scratch/</a></p>
+<h3>WASM</h3>
+<p><span>AUDIO</span> <strong>1000: Ben Titzer</strong><br>
+<a href="https://microarch.club/episodes/1000/">https://microarch.club/episodes/1000/</a></p>
+<blockquote>
+<p><em>"Ben joins to talk about the history of WebAssembly, the design of V8’s
+TurboFan optimizing compiler, and the Virgil programming language. We also
+discuss mitigating side-channel attacks in software, and designing high
+performance virtual machines."</em></p>
+</blockquote>
+<p><strong>WebAssembly JSPI has a new API</strong><br>
+<a href="https://v8.dev/blog/jspi-newapi">https://v8.dev/blog/jspi-newapi</a></p>
+<p><strong>Running PHP blazingly fast at the Edge with WebAssembly</strong><br>
+<a href="https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm">https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm</a></p>
+<h3>Zig</h3>
+<p><em>Want to learn Zig on video? Follow this playlist on YouTube</em> -
+<strong>Zig Master</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLtB7CL7EG7pDKdSBA_AlNYrEsISOHBOQL">https://www.youtube.com/playlist?list=PLtB7CL7EG7pDKdSBA_AlNYrEsISOHBOQL</a></p>
+<p><strong>Leveraging Zig's Allocators</strong><br>
+<a href="https://www.openmymind.net/Leveraging-Zigs-Allocators/">https://www.openmymind.net/Leveraging-Zigs-Allocators/</a></p>
+<h2>Windows</h2>
+<p><strong>What’s new in the Windows Subsystem for Linux in May 2024</strong><br>
+<a href="https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/?ref=news.itsfoss.com">https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/?ref=news.itsfoss.com</a></p>
 ]]></content:encoded></item></channel></rss>
