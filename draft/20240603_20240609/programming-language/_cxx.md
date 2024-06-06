@@ -18,7 +18,7 @@ https://devblogs.microsoft.com/oldnewthing/20240531-00/?p=109825
 **Memory safety**  
 https://www.circle-lang.org/site/intro/
 
-**The limits of `[[maybe_unused]]`**  
+**The limits of `[[maybe_unused]]`.**  
 https://www.sandordargo.com/blog/2024/06/05/the-limits-of-maybe-unused
 
 **Using namespaces effectively**  
