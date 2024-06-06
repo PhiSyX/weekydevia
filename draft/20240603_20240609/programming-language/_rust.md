@@ -40,3 +40,6 @@ https://this-week-in-rust.org/blog/2024/06/05/this-week-in-rust-550/
 
 **A network diagnostic tool**  
 https://github.com/fujiapple852/trippy
+
+**Building Plain Old Data from Scratch**  
+https://onevariable.com/blog/pods-from-scratch/
