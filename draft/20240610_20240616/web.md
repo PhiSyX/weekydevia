@@ -1,5 +1,8 @@
 ## Web
 
+**Time to First Byte (TTFB)**  
+https://web.dev/articles/ttfb?hl=en
+
 ### JavaScript / TypeScript
 
 **Interactive story generation**  
