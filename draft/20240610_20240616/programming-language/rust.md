@@ -10,3 +10,6 @@ https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-21
 
 **The Inconceivable Types of Rust: How to Make Self-Borrows Safe**  
 https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html
+
+**Moving Beyond Type Systems**  
+https://vhyrro.github.io/posts/effect-systems/
