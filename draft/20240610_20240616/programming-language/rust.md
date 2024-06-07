@@ -10,3 +10,8 @@ https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-ma
 
 **Moving Beyond Type Systems**  
 https://vhyrro.github.io/posts/effect-systems/
+
+**Rust Drivers**  
+https://tdittr.github.io/drivers/
+
+> _"160 awesome drivers waiting for you!"_
