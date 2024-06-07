@@ -21,3 +21,6 @@ https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-f
 
 **Avoiding Over-Reliance on `mpsc` channels in Rust**  
 https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/
+
+**Writing NES Emulator in Rust**  
+https://bugzmanov.github.io/nes_ebook/
