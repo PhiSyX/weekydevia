@@ -9,3 +9,5 @@
 #include <programming-language/cxx.md>
 
 #include <programming-language/rust.md>
+
+#include <programming-language/wasm.md>
