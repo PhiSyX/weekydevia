@@ -18,3 +18,6 @@ https://tdittr.github.io/drivers/
 
 **How We Migrated Our Static Analyzer From Java To Rust**  
 https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/
+
+**Avoiding Over-Reliance on `mpsc` channels in Rust**  
+https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/
