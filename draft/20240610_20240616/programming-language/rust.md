@@ -15,3 +15,6 @@ https://vhyrro.github.io/posts/effect-systems/
 https://tdittr.github.io/drivers/
 
 > _"160 awesome drivers waiting for you!"_
+
+**How We Migrated Our Static Analyzer From Java To Rust**  
+https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/
