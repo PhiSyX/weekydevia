@@ -1,3 +1,3 @@
 ## Programming Language
 
-#include <programming-language/_rust.md>
+#include <programming-language/rust.md>
