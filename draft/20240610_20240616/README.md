@@ -1,5 +1,7 @@
 #include <database.md>
 
+#include <devops.md>
+
 #include <web.md>
 
 #include <embedded-software.md>
