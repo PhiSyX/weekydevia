@@ -27,3 +27,6 @@ https://bugzmanov.github.io/nes_ebook/
 
 **This Month in Rust OSDev: May 2024**  
 https://rust-osdev.com/this-month/2024-05/
+
+**Making robots plan faster with SIMD and Rust**  
+https://www.claytonwramsey.com/blog/captree
