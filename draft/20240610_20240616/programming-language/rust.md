@@ -24,3 +24,6 @@ https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/
 
 **Writing NES Emulator in Rust**  
 https://bugzmanov.github.io/nes_ebook/
+
+**This Month in Rust OSDev: May 2024**  
+https://rust-osdev.com/this-month/2024-05/
