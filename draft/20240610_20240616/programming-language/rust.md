@@ -30,3 +30,6 @@ https://rust-osdev.com/this-month/2024-05/
 
 **Making robots plan faster with SIMD and Rust**  
 https://www.claytonwramsey.com/blog/captree
+
+**Master hexagonal architecture in Rust**  
+https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust
