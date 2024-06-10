@@ -14,6 +14,12 @@ https://css-tricks.com/css-container-queries/
 
 ### JavaScript / TypeScript
 
+**Tailus UI Kit for React**  
+https://ui.tailus.io/
+
+> _"Highly customizable components for crafting modern, personalized websites
+> and applications."_
+
 **Interactive story generation**  
 https://storybook.js.org/blog/interactive-story-generation/
 
