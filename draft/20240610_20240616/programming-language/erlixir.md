@@ -9,6 +9,9 @@ https://rlopzc.com/posts/elixir-sort-structs-by-two-dates/
 **Early Returns in Elixir**  
 https://clivern.com/early-returns-in-elixir/
 
+**Elixir Anti-Patterns - What Not to Do in Your Code**  
+https://curiosum.com/blog/elixir-anti-patterns
+
 ### Gleam
 
 **The Glistix Handbook**  
