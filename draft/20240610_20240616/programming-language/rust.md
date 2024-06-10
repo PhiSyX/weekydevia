@@ -33,3 +33,14 @@ https://www.claytonwramsey.com/blog/captree
 
 **Master hexagonal architecture in Rust**  
 https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust
+
+**Legend of Worlds - Dev Log**
+
+1. Dev Log 1 - A new beginning  
+   https://legendofworlds.com/blog/1
+
+2. Dev Log 2 - Core Engine  
+   https://legendofworlds.com/blog/2
+
+3. Dev Log 3 - How I spent 2 years building my own game engine (Rust, WASM, WebGPU)  
+   https://legendofworlds.com/blog/4
