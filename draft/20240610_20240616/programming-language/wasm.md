@@ -1,4 +1,4 @@
-## WebAssembly
+### WebAssembly
 
 **Using WebAssembly for Extension Development**
 
