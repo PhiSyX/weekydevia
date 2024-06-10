@@ -12,6 +12,9 @@ https://clivern.com/early-returns-in-elixir/
 **Elixir Anti-Patterns - What Not to Do in Your Code**  
 https://curiosum.com/blog/elixir-anti-patterns
 
+**Creating Tabular Representation of Database Indexes using Elixir Mix Task**  
+https://abulasar.com/creating-tabular-representation-of-database-indexes-using-elixir-mix-task
+
 ### Gleam
 
 **The Glistix Handbook**  
