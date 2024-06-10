@@ -25,3 +25,8 @@ https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your
 > tutorial covers adding an edit profile button, setting up routes and
 > controllers, ensuring profile creation during registration, handling existing
 > users without profiles, and verifying"_
+
+### UI / UX
+
+**Decision Trees For UI Components**  
+https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/
