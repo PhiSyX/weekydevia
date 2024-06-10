@@ -3,6 +3,15 @@
 **Time to First Byte (TTFB)**  
 https://web.dev/articles/ttfb?hl=en
 
+### CSS
+
+**CSS Container Queries**  
+https://css-tricks.com/css-container-queries/
+
+> _"The main idea of CSS Container Queries is to register an element as a
+> container and apply styles to other elements when the container element meets
+> certain conditions."_
+
 ### JavaScript / TypeScript
 
 **Interactive story generation**  
