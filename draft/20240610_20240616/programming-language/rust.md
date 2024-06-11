@@ -53,3 +53,6 @@ https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9
 
 [PDF] **Safe, Flexible Aliasing with Deferred Borrows**  
 https://cfallin.org/pubs/ecoop2020_defborrow.pdf
+
+**How to build a Custom Benchmarking Harness in Rust**  
+https://bencher.dev/learn/benchmarking/rust/custom-harness/
