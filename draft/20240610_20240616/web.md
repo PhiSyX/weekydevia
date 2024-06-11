@@ -41,6 +41,9 @@ https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your
 > controllers, ensuring profile creation during registration, handling existing
 > users without profiles, and verifying"_
 
+**Streaming HTML – Asynchronous DOM Updates without JavaScript**  
+https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/
+
 ### UI / UX
 
 **Decision Trees For UI Components**  
