@@ -1,5 +1,8 @@
 ## DevOps / SysAdmin
 
+🇫🇷 **Formation DevOps**  
+https://blog.stephane-robert.info/docs/
+
 **What's new in Traefik v3**  
 https://youtu.be/kEkUdj7wuRA
 
