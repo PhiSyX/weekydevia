@@ -8,3 +8,6 @@ https://pvs-studio.com/en/blog/posts/cpp/1129/
 
 **Bjarne Stroustrup: (It's Not Just Code)**  
 https://youtu.be/GZOPpLyGU_Y
+
+**Google Sanitizers | Catch 20% of your bugs in competitive programming**  
+https://youtu.be/kE9FarHo9ok
