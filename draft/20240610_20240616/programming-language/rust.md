@@ -50,3 +50,6 @@ https://letmutex.com/article/effective-substring-in-rust
 
 **Learning Rust: Bare Threading**  
 https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9
+
+[PDF] **Safe, Flexible Aliasing with Deferred Borrows**  
+https://cfallin.org/pubs/ecoop2020_defborrow.pdf
