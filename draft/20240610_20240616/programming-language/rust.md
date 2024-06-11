@@ -44,3 +44,6 @@ https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust
 
 3. Dev Log 3 - How I spent 2 years building my own game engine (Rust, WASM, WebGPU)  
    https://legendofworlds.com/blog/4
+
+**Effective substring in Rust**  
+https://letmutex.com/article/effective-substring-in-rust
