@@ -19,3 +19,6 @@ https://abulasar.com/creating-tabular-representation-of-database-indexes-using-e
 
 **The Glistix Handbook**  
 https://glistix.github.io/book/
+
+**My Favorite Gleam Feature**  
+https://erikarow.land/notes/gleam-favorite-feature
