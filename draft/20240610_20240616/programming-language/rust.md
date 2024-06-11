@@ -47,3 +47,6 @@ https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust
 
 **Effective substring in Rust**  
 https://letmutex.com/article/effective-substring-in-rust
+
+**Learning Rust: Bare Threading**  
+https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9
