@@ -11,3 +11,6 @@ https://youtu.be/GZOPpLyGU_Y
 
 **Google Sanitizers | Catch 20% of your bugs in competitive programming**  
 https://youtu.be/kE9FarHo9ok
+
+**Building a fast single source GPGPU language in C++, and rendering black holes in it**  
+https://20k.github.io/c++/2024/06/10/gpgpgpu.html
