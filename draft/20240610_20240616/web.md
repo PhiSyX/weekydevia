@@ -47,6 +47,12 @@ https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/
 **This Week In React 189**  
 https://thisweekinreact.com/newsletter/189
 
+**Saving All Or Nothing with Database Transactions**  
+https://adocasts.com/lessons/saving-all-or-nothing-with-database-transactions
+
+**Using Dependency Injection to Update A User's Profile**  
+https://adocasts.com/lessons/using-dependency-injection-to-update-a-users-profile
+
 ### UI / UX
 
 **Decision Trees For UI Components**  
