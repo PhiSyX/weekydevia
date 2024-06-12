@@ -44,6 +44,9 @@ https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your
 **Streaming HTML – Asynchronous DOM Updates without JavaScript**  
 https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/
 
+**This Week In React 189**  
+https://thisweekinreact.com/newsletter/189
+
 ### UI / UX
 
 **Decision Trees For UI Components**  
