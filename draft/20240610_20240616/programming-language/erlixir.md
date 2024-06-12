@@ -18,6 +18,9 @@ https://abulasar.com/creating-tabular-representation-of-database-indexes-using-e
 **An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView**  
 https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview/
 
+**Why you need Elixir - Tips for Startups**  
+https://youtu.be/6Vz1Nj9o60I
+
 ### Gleam
 
 **The Glistix Handbook**  
