@@ -15,6 +15,9 @@ https://curiosum.com/blog/elixir-anti-patterns
 **Creating Tabular Representation of Database Indexes using Elixir Mix Task**  
 https://abulasar.com/creating-tabular-representation-of-database-indexes-using-elixir-mix-task
 
+**An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView**  
+https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview/
+
 ### Gleam
 
 **The Glistix Handbook**  
