@@ -8,10 +8,10 @@
 
 #include <programming-language/erlixir.md>
 
-#include <programming-language/go.md>
+#include <programming-language/_go.md>
 
 #include <programming-language/cxx.md>
 
 #include <programming-language/rust.md>
 
-#include <programming-language/wasm.md>
+#include <programming-language/_wasm.md>
