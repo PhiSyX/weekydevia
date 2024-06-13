@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-06-06 11:39:38.370925900 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-06-13 14:38:30.687854900 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
@@ -343,4 +343,229 @@ performance virtual machines."</em></p>
 <h2>Windows</h2>
 <p><strong>What’s new in the Windows Subsystem for Linux in May 2024</strong><br>
 <a href="https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/?ref=news.itsfoss.com">https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-in-may-2024/?ref=news.itsfoss.com</a></p>
+]]></content:encoded></item><item><title>weekydevia: 2024.06.10 - 2024.06.616</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240610_20240616/README.md</link><description><![CDATA[Resources of the week (2024.06.10 - 2024.06.616)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-06-13 14:38:30.687854900 UTC</pubDate><content:encoded><![CDATA[<h1>2024.06.10 - 2024.06.16</h1>
+<p>Hello and welcome to another issue of weekydevia. This is a summary of the
+resources, readings and news I've read and found interesting to share this week.</p>
+<p>Links may be out of date, this is not a newsletter about new resources only.</p>
+<hr>
+<h2>Design Patterns / SOLID / Clean Code</h2>
+<p><strong>Don’t Refactor Like Uncle Bob. Please</strong><br>
+<a href="https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/">https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/</a></p>
+<h2>Database</h2>
+<p><strong>Deep Dive into PostgREST - Time Off Manager</strong></p>
+<ol>
+<li><p><a href="https://notso.boringsql.com/posts/postgrest-tutorial-part1/">https://notso.boringsql.com/posts/postgrest-tutorial-part1/</a></p>
+</li>
+<li><p><a href="https://notso.boringsql.com/posts/postgrest-tutorial-part2/">https://notso.boringsql.com/posts/postgrest-tutorial-part2/</a></p>
+</li>
+<li><p><a href="https://notso.boringsql.com/posts/postgrest-tutorial-part3/">https://notso.boringsql.com/posts/postgrest-tutorial-part3/</a></p>
+</li>
+</ol>
+<p><strong>How to Get the Most out of Postgres Memory Settings</strong><br>
+<a href="https://tembo.io/blog/optimizing-memory-usage">https://tembo.io/blog/optimizing-memory-usage</a></p>
+<h2>DevOps / SysAdmin</h2>
+<p>🇫🇷 <strong>Formation DevOps</strong><br>
+<a href="https://blog.stephane-robert.info/docs/">https://blog.stephane-robert.info/docs/</a></p>
+<p><strong>What's new in Traefik v3</strong><br>
+<a href="https://youtu.be/kEkUdj7wuRA">https://youtu.be/kEkUdj7wuRA</a></p>
+<p><strong>Upgrade Traefik Proxy to API Gateway and API Management in Seconds</strong><br>
+<a href="https://youtu.be/zriUO5YPgFg">https://youtu.be/zriUO5YPgFg</a></p>
+<p>🇫🇷 <strong>Infra de A à Z - 28. Ansible - manager les utilisateurs</strong><br>
+<a href="https://youtu.be/5mpIbRYdcKM">https://youtu.be/5mpIbRYdcKM</a></p>
+<p><strong>K8Studio: A Kubernetes IDE</strong><br>
+<a href="https://github.com/guiqui/k8Studio">https://github.com/guiqui/k8Studio</a></p>
+<h2>Web</h2>
+<p><strong>Time to First Byte (TTFB)</strong><br>
+<a href="https://web.dev/articles/ttfb?hl=en">https://web.dev/articles/ttfb?hl=en</a></p>
+<h3>CSS</h3>
+<p><strong>CSS Container Queries</strong><br>
+<a href="https://css-tricks.com/css-container-queries/">https://css-tricks.com/css-container-queries/</a></p>
+<blockquote>
+<p><em>"The main idea of CSS Container Queries is to register an element as a
+container and apply styles to other elements when the container element meets
+certain conditions."</em></p>
+</blockquote>
+<h3>JavaScript / TypeScript</h3>
+<p><strong>Tailus UI Kit for React</strong><br>
+<a href="https://ui.tailus.io/">https://ui.tailus.io/</a></p>
+<blockquote>
+<p><em>"Highly customizable components for crafting modern, personalized websites
+and applications."</em></p>
+</blockquote>
+<p><strong>Interactive story generation</strong><br>
+<a href="https://storybook.js.org/blog/interactive-story-generation/">https://storybook.js.org/blog/interactive-story-generation/</a></p>
+<blockquote>
+<p><em>"Make your first story in seconds without leaving the browser!"</em></p>
+</blockquote>
+<p><strong>The <code>never</code> type and error handling in TypeScript</strong><br>
+<a href="https://fettblog.eu/typescript-never-and-error-handling/">https://fettblog.eu/typescript-never-and-error-handling/</a></p>
+<p><strong>Persist Filters Easily with Lucid's Query String Method</strong><br>
+<a href="https://adocasts.com/lessons/persist-filters-easily-with-lucids-query-string-method">https://adocasts.com/lessons/persist-filters-easily-with-lucids-query-string-method</a></p>
+<blockquote>
+<p><em>"Learn how to simplify pagination by persisting active filters with the query
+string method. Follow this step-by-step guide to clean up your code, apply the
+.queryString method from Lucid, and ensure seamless pagination for your web
+applications."</em></p>
+</blockquote>
+<p><strong>How to Create and Fix Missing User Profiles in Your Application</strong><br>
+<a href="https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your-application">https://adocasts.com/lessons/how-to-create-and-fix-missing-user-profiles-in-your-application</a></p>
+<blockquote>
+<p><em>"Learn how to create and manage user profiles in your application. This
+tutorial covers adding an edit profile button, setting up routes and
+controllers, ensuring profile creation during registration, handling existing
+users without profiles, and verifying"</em></p>
+</blockquote>
+<p><strong>Streaming HTML – Asynchronous DOM Updates without JavaScript</strong><br>
+<a href="https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/">https://www.infoq.com/articles/html-streaming-dom-updates-without-javascript/</a></p>
+<p><strong>Conference Frontend Nation 2024</strong><br>
+<a href="https://www.youtube.com/%40vueschool/videos">https://www.youtube.com/@vueschool/videos</a></p>
+<p><strong>This Week In React 189</strong><br>
+<a href="https://thisweekinreact.com/newsletter/189">https://thisweekinreact.com/newsletter/189</a></p>
+<p><strong>Saving All Or Nothing with Database Transactions</strong><br>
+<a href="https://adocasts.com/lessons/saving-all-or-nothing-with-database-transactions">https://adocasts.com/lessons/saving-all-or-nothing-with-database-transactions</a></p>
+<p><strong>Using Dependency Injection to Update A User's Profile</strong><br>
+<a href="https://adocasts.com/lessons/using-dependency-injection-to-update-a-users-profile">https://adocasts.com/lessons/using-dependency-injection-to-update-a-users-profile</a></p>
+<p><strong>a TC39 proposal to create iterators by sequencing existing iterators</strong><br>
+<a href="https://github.com/tc39/proposal-iterator-sequencing">https://github.com/tc39/proposal-iterator-sequencing</a></p>
+<h3>UI / UX</h3>
+<p><strong>Decision Trees For UI Components</strong><br>
+<a href="https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/">https://www.smashingmagazine.com/2024/05/decision-trees-ui-components/</a></p>
+<h2>Embedded Software</h2>
+<p><strong>Embedded Software Development: Comprehensive Guide 2024</strong><br>
+<a href="https://daily.dev/blog/embedded-software-development-comprehensive-guide-2024">https://daily.dev/blog/embedded-software-development-comprehensive-guide-2024</a></p>
+<p><strong>Raspberry Pi Pico W: Sending Emails using SMTP Server (MicroPython)</strong><br>
+<a href="https://randomnerdtutorials.com/raspberry-pi-pico-w-send-email-micropython/">https://randomnerdtutorials.com/raspberry-pi-pico-w-send-email-micropython/</a></p>
+<h2>Programming Language</h2>
+<p><strong>Rust vs C++: A Performance Comparison</strong></p>
+<ol>
+<li><p><a href="https://medium.com/rustaceans/c-vs-rust-a-performance-comparison-46d1a669beb1">https://medium.com/rustaceans/c-vs-rust-a-performance-comparison-46d1a669beb1</a></p>
+</li>
+<li><p><a href="https://medium.com/rustaceans/rust-vs-c-a-performance-comparison-part-2-646ceeb1fbd4">https://medium.com/rustaceans/rust-vs-c-a-performance-comparison-part-2-646ceeb1fbd4</a></p>
+</li>
+<li><p><a href="https://medium.com/rustaceans/rust-vs-c-a-performance-comparison-part-3-effective-abstractions-e740e8262ce8">https://medium.com/rustaceans/rust-vs-c-a-performance-comparison-part-3-effective-abstractions-e740e8262ce8</a></p>
+</li>
+</ol>
+<h3>Elixir</h3>
+<p><strong>How to update URL params in a Phoenix LiveView</strong><br>
+<a href="https://andrewtimberlake.com/blog/2024/06/how-to-update-url-params-in-phoenix-liveview">https://andrewtimberlake.com/blog/2024/06/how-to-update-url-params-in-phoenix-liveview</a></p>
+<p><strong>Sorting a list of Structs or Maps by two dates in Elixir</strong><br>
+<a href="https://rlopzc.com/posts/elixir-sort-structs-by-two-dates/">https://rlopzc.com/posts/elixir-sort-structs-by-two-dates/</a></p>
+<p><strong>Early Returns in Elixir</strong><br>
+<a href="https://clivern.com/early-returns-in-elixir/">https://clivern.com/early-returns-in-elixir/</a></p>
+<p><strong>Elixir Anti-Patterns - What Not to Do in Your Code</strong><br>
+<a href="https://curiosum.com/blog/elixir-anti-patterns">https://curiosum.com/blog/elixir-anti-patterns</a></p>
+<p><strong>Creating Tabular Representation of Database Indexes using Elixir Mix Task</strong><br>
+<a href="https://abulasar.com/creating-tabular-representation-of-database-indexes-using-elixir-mix-task">https://abulasar.com/creating-tabular-representation-of-database-indexes-using-elixir-mix-task</a></p>
+<p><strong>An end-to-end ES/CQRS example with EventStoreDB and Phoenix/LiveView</strong><br>
+<a href="https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview/">https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-and-phoenix/liveview/</a></p>
+<p><strong>Why you need Elixir - Tips for Startups</strong><br>
+<a href="https://youtu.be/6Vz1Nj9o60I">https://youtu.be/6Vz1Nj9o60I</a></p>
+<p><strong>Extending Phoenix LiveView with Hooks</strong><br>
+<a href="https://youtu.be/YFBg5NNEW4">https://youtu.be/YFBg5NNEW4</a></p>
+<p><span>AUDIO</span> <strong>BeamOps - DevOps on the BEAM</strong><br>
+<a href="https://podcast.thinkingelixir.com/206">https://podcast.thinkingelixir.com/206</a></p>
+<h3>Gleam</h3>
+<p><strong>The Glistix Handbook</strong><br>
+<a href="https://glistix.github.io/book/">https://glistix.github.io/book/</a></p>
+<p><strong>My Favorite Gleam Feature</strong><br>
+<a href="https://erikarow.land/notes/gleam-favorite-feature">https://erikarow.land/notes/gleam-favorite-feature</a></p>
+<h3>Go</h3>
+<p><strong>Putting Go's Context package into context</strong><br>
+<a href="https://blog.meain.io/2024/golang-context/">https://blog.meain.io/2024/golang-context/</a></p>
+<p><strong>An Applied Introduction to eBPF with Go</strong><br>
+<a href="https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06">https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06</a></p>
+<p><strong>Live website updates with Go, SSE, and htmx</strong><br>
+<a href="https://threedots.tech/post/live-website-updates-go-sse-htmx/">https://threedots.tech/post/live-website-updates-go-sse-htmx/</a></p>
+<h3>C or C++</h3>
+<p><strong>Temporary Lifetime Extension: Mistakes and Solutions</strong><br>
+<a href="https://hackernoon.com/temporary-lifetime-extension-mistakes-and-solutions">https://hackernoon.com/temporary-lifetime-extension-mistakes-and-solutions</a></p>
+<p><strong>C++ programmer's guide to undefined behavior: part 1 of 11</strong><br>
+<a href="https://pvs-studio.com/en/blog/posts/cpp/1129/">https://pvs-studio.com/en/blog/posts/cpp/1129/</a></p>
+<p><strong>Bjarne Stroustrup: (It's Not Just Code)</strong><br>
+<a href="https://youtu.be/GZOPpLyGU_Y">https://youtu.be/GZOPpLyGU_Y</a></p>
+<p><strong>Google Sanitizers | Catch 20% of your bugs in competitive programming</strong><br>
+<a href="https://youtu.be/kE9FarHo9ok">https://youtu.be/kE9FarHo9ok</a></p>
+<p><strong>Building a fast single source GPGPU language in C++, and rendering black holes in it</strong><br>
+<a href="https://20k.github.io/c%2B%2B/2024/06/10/gpgpgpu.html">https://20k.github.io/c++/2024/06/10/gpgpgpu.html</a></p>
+<p><strong>Needlessly Public</strong><br>
+<a href="https://euroquis.nl/kde/2024/06/06/public.html">https://euroquis.nl/kde/2024/06/06/public.html</a></p>
+<blockquote>
+<p><em>"When working on a legacy codebase that has leading-edge C++ constructs, but
+also deeply legacy design decisions, sometimes there’s nifty ways to use the
+one against the other."</em></p>
+</blockquote>
+<p><strong>How much UB is in my compiler?</strong><br>
+<a href="https://pvs-studio.com/en/blog/posts/cpp/1130/">https://pvs-studio.com/en/blog/posts/cpp/1130/</a></p>
+<h3>Rust</h3>
+<p><strong>Latency at the edge with Rust/WebAssembly and Postgres</strong></p>
+<ol>
+<li><p><a href="https://exograph.dev/blog/wasm-pg-explorations-1">https://exograph.dev/blog/wasm-pg-explorations-1</a></p>
+</li>
+<li><p><a href="https://exograph.dev/blog/wasm-pg-explorations-2">https://exograph.dev/blog/wasm-pg-explorations-2</a></p>
+</li>
+</ol>
+<p><strong>The Inconceivable Types of Rust: How to Make Self-Borrows Safe</strong><br>
+<a href="https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html">https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html</a></p>
+<p><strong>Moving Beyond Type Systems</strong><br>
+<a href="https://vhyrro.github.io/posts/effect-systems/">https://vhyrro.github.io/posts/effect-systems/</a></p>
+<p><strong>Rust Drivers</strong><br>
+<a href="https://tdittr.github.io/drivers/">https://tdittr.github.io/drivers/</a></p>
+<blockquote>
+<p><em>"160 awesome drivers waiting for you!"</em></p>
+</blockquote>
+<p><strong>How We Migrated Our Static Analyzer From Java To Rust</strong><br>
+<a href="https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/">https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/</a></p>
+<p><strong>Avoiding Over-Reliance on <code>mpsc</code> channels in Rust</strong><br>
+<a href="https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/">https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/</a></p>
+<p><strong>Writing NES Emulator in Rust</strong><br>
+<a href="https://bugzmanov.github.io/nes_ebook/">https://bugzmanov.github.io/nes_ebook/</a></p>
+<p><strong>This Month in Rust OSDev: May 2024</strong><br>
+<a href="https://rust-osdev.com/this-month/2024-05/">https://rust-osdev.com/this-month/2024-05/</a></p>
+<p><strong>Making robots plan faster with SIMD and Rust</strong><br>
+<a href="https://www.claytonwramsey.com/blog/captree">https://www.claytonwramsey.com/blog/captree</a></p>
+<p><strong>Master hexagonal architecture in Rust</strong><br>
+<a href="https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust">https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust</a></p>
+<p><strong>Legend of Worlds - Dev Log</strong></p>
+<ol>
+<li><p>Dev Log 1 - A new beginning<br>
+</p>
+</li>
+</ol>
+<p><a href="https://legendofworlds.com/blog/1">https://legendofworlds.com/blog/1</a></p>
+<ol>
+<li><p>Dev Log 2 - Core Engine<br>
+</p>
+</li>
+</ol>
+<p><a href="https://legendofworlds.com/blog/2">https://legendofworlds.com/blog/2</a></p>
+<ol>
+<li><p>Dev Log 3 - How I spent 2 years building my own game engine (Rust, WASM, WebGPU)<br>
+</p>
+</li>
+</ol>
+<p><a href="https://legendofworlds.com/blog/4">https://legendofworlds.com/blog/4</a></p>
+<p><strong>Effective substring in Rust</strong><br>
+<a href="https://letmutex.com/article/effective-substring-in-rust">https://letmutex.com/article/effective-substring-in-rust</a></p>
+<p><strong>Learning Rust: Bare Threading</strong><br>
+<a href="https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9">https://levelup.gitconnected.com/learning-rust-bare-threading-1defb65038c9</a></p>
+<p><span>PDF</span> <strong>Safe, Flexible Aliasing with Deferred Borrows</strong><br>
+<a href="https://cfallin.org/pubs/ecoop2020_defborrow.pdf">https://cfallin.org/pubs/ecoop2020_defborrow.pdf</a></p>
+<p><strong>How to build a Custom Benchmarking Harness in Rust</strong><br>
+<a href="https://bencher.dev/learn/benchmarking/rust/custom-harness/">https://bencher.dev/learn/benchmarking/rust/custom-harness/</a></p>
+<p><strong>This Week in Rust 551</strong><br>
+<a href="https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/">https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/</a></p>
+<p><strong>Understanding Arc in Rust</strong><br>
+<a href="https://www.tracycodes.com/posts/understanding-arc-in-rust">https://www.tracycodes.com/posts/understanding-arc-in-rust</a></p>
+<p><strong>Send &amp; Mutex</strong><br>
+<a href="https://cryptical.xyz/rust/send-mutex">https://cryptical.xyz/rust/send-mutex</a></p>
+<h3>WebAssembly</h3>
+<p><strong>Using WebAssembly for Extension Development</strong></p>
+<ol>
+<li><p><a href="https://code.visualstudio.com/blogs/2024/05/08/wasm">https://code.visualstudio.com/blogs/2024/05/08/wasm</a></p>
+</li>
+<li><p><a href="https://code.visualstudio.com/blogs/2024/06/07/wasm-part2">https://code.visualstudio.com/blogs/2024/06/07/wasm-part2</a></p>
+</li>
+</ol>
+<p><strong>Building, Shipping and Debugging a C++ WebAssembly App</strong><br>
+<a href="https://www.willusher.io/blog/build-ship-debug-wasm/">https://www.willusher.io/blog/build-ship-debug-wasm/</a></p>
 ]]></content:encoded></item></channel></rss>
