@@ -1,3 +1,5 @@
+#include <_design-pattern.md>
+
 #include <_database.md>
 
 #include <_devops.md>
