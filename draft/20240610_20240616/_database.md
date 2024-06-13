@@ -5,3 +5,6 @@
 1. https://notso.boringsql.com/posts/postgrest-tutorial-part1/
 2. https://notso.boringsql.com/posts/postgrest-tutorial-part2/
 3. https://notso.boringsql.com/posts/postgrest-tutorial-part3/
+
+**How to Get the Most out of Postgres Memory Settings**  
+https://tembo.io/blog/optimizing-memory-usage
