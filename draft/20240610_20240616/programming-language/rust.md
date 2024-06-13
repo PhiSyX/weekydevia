@@ -62,3 +62,6 @@ https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/
 
 **Understanding Arc in Rust**  
 https://www.tracycodes.com/posts/understanding-arc-in-rust
+
+**Send & Mutex**  
+https://cryptical.xyz/rust/send-mutex
