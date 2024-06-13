@@ -14,3 +14,10 @@ https://youtu.be/kE9FarHo9ok
 
 **Building a fast single source GPGPU language in C++, and rendering black holes in it**  
 https://20k.github.io/c++/2024/06/10/gpgpgpu.html
+
+**Needlessly Public**  
+https://euroquis.nl/kde/2024/06/06/public.html
+
+> _"When working on a legacy codebase that has leading-edge C++ constructs, but
+> also deeply legacy design decisions, sometimes there’s nifty ways to use the
+> one against the other."_
