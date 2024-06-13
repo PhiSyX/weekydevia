@@ -3,6 +3,8 @@ use std::io::{self};
 use std::path::{self, PathBuf};
 use std::sync::Arc;
 
+use tokio::task;
+
 use crate::chan::{TemplateSender, TemplateState};
 use crate::error::Error;
 
@@ -42,6 +44,10 @@ impl Template {
         Ok(Self::new(file, template))
     }
 
+    pub fn shared(self) -> Arc<Self> {
+        Arc::new(self)
+    }
+
     pub fn with_sender(mut self, sender: &TemplateSender) -> Self {
         self.tx.replace(sender.to_owned());
         self
@@ -58,7 +64,7 @@ impl Template {
         &self,
         line: &str,
         prev_filepath: impl AsRef<path::Path> + Send + 'static,
-    ) -> Option<tokio::task::JoinHandle<std::result::Result<(), Error>>> {
+    ) -> Option<task::JoinHandle<Result<()>>> {
         if !(line.starts_with("#include <") && line.ends_with('>')) {
             return None;
         }
@@ -82,17 +88,23 @@ impl Template {
         // SAFETY(unwrap): nous savons que le fichier existe grâce à la
         // condition ci-haut.
         let template = Self::open(relative_filepath.to_owned())
-            .unwrap()
-            .with_sender(self.tx());
+            .ok()?
+            .with_sender(self.tx())
+            .shared();
 
-        let shared_template = Arc::new(template);
-        let handle = tokio::spawn(shared_template.process(prev_filepath, relative_filepath));
-
-        Some(handle)
+        Some(template.spawn(prev_filepath, relative_filepath))
     }
 }
 
 impl Template {
+    pub fn spawn(
+        self: Arc<Self>,
+        prev_filepath: impl AsRef<path::Path> + Send + 'static,
+        relative_filepath: impl AsRef<path::Path> + Clone + Send + 'static,
+    ) -> task::JoinHandle<Result<()>> {
+        tokio::spawn(self.process(prev_filepath, relative_filepath))
+    }
+
     pub async fn process(
         self: Arc<Self>,
         prev_filepath: impl AsRef<path::Path> + Send,

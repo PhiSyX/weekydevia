@@ -2,7 +2,7 @@
  * @author Mike 'PhiSyX' S. (https://github.com/PhiSyX)
  */
 
-use std::{io::Write, path, process, sync::Arc};
+use std::{io::Write, path, process};
 
 use weekydevia::{
     cli, feed, replace_relative_links, Result, Template, TemplateChan, TemplateState,
@@ -22,10 +22,10 @@ async fn main() -> Result<impl process::Termination> {
 
     let template_readme_file = args.draft_directory.join("README.md");
 
-    let template = Template::open(template_readme_file.to_owned())?.with_sender(&tx);
-    let shared_template = Arc::new(template);
-    let handle =
-        tokio::spawn(shared_template.process(template_readme_file.clone(), template_readme_file));
+    let template = Template::open(template_readme_file.to_owned())?
+        .with_sender(&tx)
+        .shared();
+    let handle = template.spawn(template_readme_file.clone(), template_readme_file);
 
     let mut output_content = String::new();
 
