@@ -53,6 +53,9 @@ https://adocasts.com/lessons/saving-all-or-nothing-with-database-transactions
 **Using Dependency Injection to Update A User's Profile**  
 https://adocasts.com/lessons/using-dependency-injection-to-update-a-users-profile
 
+**a TC39 proposal to create iterators by sequencing existing iterators**  
+https://github.com/tc39/proposal-iterator-sequencing
+
 ### UI / UX
 
 **Decision Trees For UI Components**  
