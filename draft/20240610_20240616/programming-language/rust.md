@@ -56,3 +56,6 @@ https://cfallin.org/pubs/ecoop2020_defborrow.pdf
 
 **How to build a Custom Benchmarking Harness in Rust**  
 https://bencher.dev/learn/benchmarking/rust/custom-harness/
+
+**This Week in Rust 551**  
+https://this-week-in-rust.org/blog/2024/06/12/this-week-in-rust-551/
