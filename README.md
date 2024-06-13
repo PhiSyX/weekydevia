@@ -2,8 +2,8 @@
 
 ## Releases
 
-Releases are published every Thursday, except in case of unavailability or lack
-of links.
+Releases are published every Thursday, every 2 weeks, except in case of
+unavailability or lack of links.
 
 Last Release: [2024.06.10 - 2024.06.16](release/20240610_20240616/README.md)
 
