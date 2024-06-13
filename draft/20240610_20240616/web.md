@@ -25,6 +25,9 @@ https://storybook.js.org/blog/interactive-story-generation/
 
 > _"Make your first story in seconds without leaving the browser!"_
 
+**The `never` type and error handling in TypeScript**  
+https://fettblog.eu/typescript-never-and-error-handling/
+
 **Persist Filters Easily with Lucid's Query String Method**  
 https://adocasts.com/lessons/persist-filters-easily-with-lucids-query-string-method
 
