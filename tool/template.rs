@@ -111,8 +111,21 @@ impl Template {
                 }
 
                 let mut line = line.to_owned();
+
                 if line.trim_start().starts_with("http") {
                     line = format!("[{0}]({0})", line.trim());
+                } else if line.trim_start_matches("1. ").starts_with("http")
+                    || line.trim_start_matches("2. ").starts_with("http")
+                    || line.trim_start_matches("3. ").starts_with("http")
+                    || line.trim_start_matches("4. ").starts_with("http")
+                    || line.trim_start_matches("5. ").starts_with("http")
+                    || line.trim_start_matches("6. ").starts_with("http")
+                    || line.trim_start_matches("7. ").starts_with("http")
+                    || line.trim_start_matches("8. ").starts_with("http")
+                    || line.trim_start_matches("9. ").starts_with("http")
+                    || line.trim_start_matches("10. ").starts_with("http")
+                {
+                    line = format!("{0} [{1}]({1})", &line[0..2], &line[3..].trim());
                 }
 
                 let filename: OsString = if output_filename.to_string_lossy().starts_with('_') {

@@ -21,3 +21,6 @@ https://euroquis.nl/kde/2024/06/06/public.html
 > _"When working on a legacy codebase that has leading-edge C++ constructs, but
 > also deeply legacy design decisions, sometimes there’s nifty ways to use the
 > one against the other."_
+
+**How much UB is in my compiler?**  
+https://pvs-studio.com/en/blog/posts/cpp/1130/
