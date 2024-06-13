@@ -21,6 +21,9 @@ https://kurtov.pro/blog/2024/06/an-end-to-end-es/cqrs-example-with-eventstoredb-
 **Why you need Elixir - Tips for Startups**  
 https://youtu.be/6Vz1Nj9o60I
 
+**Extending Phoenix LiveView with Hooks**  
+https://youtu.be/YFBg5NNEW4
+
 [AUDIO] **BeamOps - DevOps on the BEAM**  
 https://podcast.thinkingelixir.com/206
 
