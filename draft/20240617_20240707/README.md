@@ -4,4 +4,6 @@
 
 #include <rust.md>
 
+#include <_conf.md>
+
 --- THE END ---
