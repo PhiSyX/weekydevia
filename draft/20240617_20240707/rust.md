@@ -1,6 +1,6 @@
 ### Rust
 
-**Effective Rust**
+**Effective Rust**  
 https://www.lurklurk.org/effective-rust/
 
 > _"35 Specific Ways to Improve Your Rust Code"_
@@ -14,3 +14,6 @@ https://ditto.live/blog/bridging-react-native-and-rust-via-jsi
 
 **Async Virtual Machines in Rust**  
 https://uberfoo.rs/blog/async-vm
+
+**Networking and Sockets: Endianness**  
+https://www.kungfudev.com/blog/2024/06/14/network-sockets-endianness
