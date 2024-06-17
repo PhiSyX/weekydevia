@@ -17,3 +17,6 @@ https://uberfoo.rs/blog/async-vm
 
 **Networking and Sockets: Endianness**  
 https://www.kungfudev.com/blog/2024/06/14/network-sockets-endianness
+
+**Making a const version of Rust's array::from_fn - How hard can it be?**  
+https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html
