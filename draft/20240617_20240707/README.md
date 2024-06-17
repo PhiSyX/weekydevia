@@ -4,6 +4,8 @@
 
 ## Programming Language
 
+#include <_go.md>
+
 #include <rust.md>
 
 #include <_conf.md>
