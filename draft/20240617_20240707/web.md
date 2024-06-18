@@ -14,3 +14,6 @@ https://adocasts.com/lessons/uploading-and-displaying-user-avatars
 > _"In this lesson, we'll learn how to validate and upload avatar images into
 > our project's storage. We'll then learn how we can easily display images we
 > have contained within our app's storage"_
+
+**Extracting all URLs of your sitemap.xml with JavaScript**  
+https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-javascript/
