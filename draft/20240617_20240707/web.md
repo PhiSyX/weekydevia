@@ -17,3 +17,6 @@ https://adocasts.com/lessons/uploading-and-displaying-user-avatars
 
 **Extracting all URLs of your sitemap.xml with JavaScript**  
 https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-javascript/
+
+**Reanimated Can Block Your JS Thread**  
+https://andrei-calazans.com/posts/reanimated-blocking-js-thread/
