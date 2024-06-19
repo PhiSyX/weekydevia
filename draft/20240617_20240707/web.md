@@ -20,3 +20,10 @@ https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-java
 
 **Reanimated Can Block Your JS Thread**  
 https://andrei-calazans.com/posts/reanimated-blocking-js-thread/
+
+**This Week In React 190**  
+https://thisweekinreact.com/newsletter/190
+
+> _"📨 #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro,
+> INP, composition, Reassure, Fumadocs, tscircuit, Sonner, Relay, Reanimated,
+> RNGH, BottomSheet, RNScreens, VisionOS, TC39, Node, CSS ..."_
