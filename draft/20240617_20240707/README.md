@@ -15,6 +15,9 @@ https://antonz.org/uuidv7/
 
 #include <rust.md>
 
+**Zig vs. Rust at work: the choice we made**  
+https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/
+
 #include <_conf.md>
 
 --- THE END ---
