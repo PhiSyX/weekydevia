@@ -23,3 +23,6 @@ https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html
 
 **Future's liveness problem**  
 https://skepfyr.me/blog/futures-liveness-problem/
+
+**This Week in Rust 552**  
+https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/
