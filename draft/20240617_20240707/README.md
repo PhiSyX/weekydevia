@@ -9,6 +9,8 @@ https://antonz.org/uuidv7/
 
 #include <_php.md>
 
+#include <_erlixir.md>
+
 #include <_go.md>
 
 #include <_cxx.md>
