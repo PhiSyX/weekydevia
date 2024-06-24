@@ -26,3 +26,6 @@ https://skepfyr.me/blog/futures-liveness-problem/
 
 **This Week in Rust 552**  
 https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/
+
+**Rust for Linux**  
+https://rust-for-linux.com/
