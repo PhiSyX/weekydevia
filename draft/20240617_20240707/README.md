@@ -19,6 +19,8 @@ https://antonz.org/uuidv7/
 
 #include <rust.md>
 
+#include <_wasm.md>
+
 #include <_zig.md>
 
 **Zig vs. Rust at work: the choice we made**  
