@@ -8,3 +8,6 @@ https://blog.meain.io/2024/golang-context/
 
 **Common Anti-Patterns in Go Web Applications**  
 https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+
+**Atomic operations composition in Go**  
+https://antonz.org/atomics-composition/
