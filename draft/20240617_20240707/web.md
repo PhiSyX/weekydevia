@@ -45,3 +45,6 @@ https://thisweekinreact.com/newsletter/191
 
 **How React 19 (Almost) Made the Internet Slower**  
 https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/
+
+**Ecma International approves ECMAScript 2024: What’s new?**  
+https://2ality.com/2024/06/ecmascript-2024.html
