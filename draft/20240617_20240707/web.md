@@ -32,3 +32,6 @@ https://thisweekinreact.com/newsletter/190
 > _"📨 #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro,
 > INP, composition, Reassure, Fumadocs, tscircuit, Sonner, Relay, Reanimated,
 > RNGH, BottomSheet, RNScreens, VisionOS, TC39, Node, CSS ..."_
+
+**How React 19 (Almost) Made the Internet Slower**  
+https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/
