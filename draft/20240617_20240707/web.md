@@ -26,6 +26,9 @@ https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-java
 **Reanimated Can Block Your JS Thread**  
 https://andrei-calazans.com/posts/reanimated-blocking-js-thread/
 
+**Visual testing: The greatest trick in UI development**  
+https://storybook.js.org/blog/visual-testing-is-the-greatest-trick-in-ui-development/
+
 **This Week In React 190**  
 https://thisweekinreact.com/newsletter/190
 
