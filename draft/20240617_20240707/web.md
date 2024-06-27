@@ -34,3 +34,6 @@ https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/
 
 **Ecma International approves ECMAScript 2024: What’s new?**  
 https://2ality.com/2024/06/ecmascript-2024.html
+
+**Optimizing Javascript for fun and for profit**  
+https://romgrk.com/posts/optimizing-javascript
