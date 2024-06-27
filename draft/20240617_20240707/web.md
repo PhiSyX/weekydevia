@@ -29,20 +29,6 @@ https://andrei-calazans.com/posts/reanimated-blocking-js-thread/
 **Visual testing: The greatest trick in UI development**  
 https://storybook.js.org/blog/visual-testing-is-the-greatest-trick-in-ui-development/
 
-**This Week In React 190**  
-https://thisweekinreact.com/newsletter/190
-
-> _"📨 #190: Suspense, Internals Explorer, DevTools, RSC + Vite, Codemod, Astro,
-> INP, composition, Reassure, Fumadocs, tscircuit, Sonner, Relay, Reanimated,
-> RNGH, BottomSheet, RNScreens, VisionOS, TC39, Node, CSS ..."_
-
-**This Week In React 191**  
-https://thisweekinreact.com/newsletter/191
-
-> _"📨 #191: React-Router, Remix, React Query, Suspense, Compiler, Remotion,
-> CodeHike, next-safe-action, Framer-Motion, React-Admin, StyleX, Mobx,
-> FlashList, RN native bridging, Expo, TypeScript, State of JS, Node ..."_
-
 **How React 19 (Almost) Made the Internet Slower**  
 https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/
 
