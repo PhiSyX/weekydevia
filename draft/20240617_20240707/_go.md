@@ -11,3 +11,6 @@ https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 
 **Atomic operations composition in Go**  
 https://antonz.org/atomics-composition/
+
+**Making Regex From Scratch in Go**  
+https://lewismetcalf.com/series/making-regex-from-scratch-in-go/
