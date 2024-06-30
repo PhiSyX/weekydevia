@@ -14,3 +14,6 @@ https://antonz.org/atomics-composition/
 
 **Making Regex From Scratch in Go**  
 https://lewismetcalf.com/series/making-regex-from-scratch-in-go/
+
+**Iterators in Go**  
+https://bitfieldconsulting.com/posts/iterators
