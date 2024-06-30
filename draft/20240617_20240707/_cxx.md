@@ -5,3 +5,6 @@ https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-i
 
 **Audio C++ Architecture, Optimization & Best Practices With Gustav Andersson | WolfTalk n°022**  
 https://thewolfsound.com/talk022/
+
+**Reflection for C++26**  
+https://isocpp.org/files/papers/P2996R4.html
