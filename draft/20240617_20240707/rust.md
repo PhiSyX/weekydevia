@@ -29,3 +29,6 @@ https://rust-for-linux.com/
 
 **Ergonomic Self-Referential Types for Rust**  
 https://blog.yoshuawuyts.com/self-referential-types/
+
+**Rust patterns: Abolish the builder pattern**  
+https://kerkour.com/rust-abolish-the-builder-pattern
