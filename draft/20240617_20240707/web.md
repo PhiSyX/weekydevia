@@ -5,6 +5,11 @@
 **Inline conditionals in CSS, now?**  
 https://lea.verou.me/blog/2024/css-conditionals-now/
 
+### SVG
+
+**Morphing Arbitrary Paths in SVG**  
+https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/
+
 ### JavaScript / TypeScript
 
 **Displaying A User's Profile**  
