@@ -26,3 +26,6 @@ https://skepfyr.me/blog/futures-liveness-problem/
 
 **Rust for Linux**  
 https://rust-for-linux.com/
+
+**Ergonomic Self-Referential Types for Rust**  
+https://blog.yoshuawuyts.com/self-referential-types/
