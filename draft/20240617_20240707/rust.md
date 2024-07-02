@@ -32,3 +32,6 @@ https://blog.yoshuawuyts.com/self-referential-types/
 
 **Rust patterns: Abolish the builder pattern**  
 https://kerkour.com/rust-abolish-the-builder-pattern
+
+**Resolving Rust Symbols**  
+https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
