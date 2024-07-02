@@ -5,6 +5,9 @@
 **Inline conditionals in CSS, now?**  
 https://lea.verou.me/blog/2024/css-conditionals-now/
 
+**How to use container queries now**  
+https://web.dev/blog/how-to-use-container-queries-now?hl=en
+
 ### SVG
 
 **Morphing Arbitrary Paths in SVG**  
