@@ -35,3 +35,6 @@ https://kerkour.com/rust-abolish-the-builder-pattern
 
 **Resolving Rust Symbols**  
 https://blog.shrirambalaji.com/posts/resolving-rust-symbols/
+
+**Using SIMD for Parallel Processing in Rust**  
+https://nrempel.com/using-simd-for-parallel-processing-in-rust/
