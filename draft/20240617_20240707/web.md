@@ -8,6 +8,11 @@ https://lea.verou.me/blog/2024/css-conditionals-now/
 **How to use container queries now**  
 https://web.dev/blog/how-to-use-container-queries-now?hl=en
 
+**Cap Unit**  
+https://ishadeed.com/article/css-cap-unit/
+
+> _"A look at how I solved a design problem with CSS cap unit."_
+
 ### SVG
 
 **Morphing Arbitrary Paths in SVG**  
