@@ -16,7 +16,7 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
         &release_name[6..=7],
         &release_name[9..=12],
         &release_name[13..=14],
-        &release_name[14..=16],
+        &release_name[15..=16],
     );
 
     let current_feed = std::fs::File::open("release/feed.xml")?;
