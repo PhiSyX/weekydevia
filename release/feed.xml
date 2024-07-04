@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-06-13 14:38:30.687854900 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-07-04 09:52:09.923009100 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.602</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.602)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
@@ -568,4 +568,164 @@ one against the other."</em></p>
 </ol>
 <p><strong>Building, Shipping and Debugging a C++ WebAssembly App</strong><br>
 <a href="https://www.willusher.io/blog/build-ship-debug-wasm/">https://www.willusher.io/blog/build-ship-debug-wasm/</a></p>
+]]></content:encoded></item><item><title>weekydevia: 2024.06.17 - 2024.07.707</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240617_20240707/README.md</link><description><![CDATA[Resources of the week (2024.06.17 - 2024.07.707)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-07-04 09:52:09.923009100 UTC</pubDate><content:encoded><![CDATA[<h1>2024.06.17 - 2024.07.07</h1>
+<p>Hello and welcome to another issue of weekydevia. This is a summary of the
+resources, readings and news I've read and found interesting to share this week.</p>
+<p>Links may be out of date, this is not a newsletter about new resources only.</p>
+<hr>
+<h2>Security</h2>
+<p><strong>What is Penetration Testing—Types, Tools &amp; Best Practices</strong><br>
+<a href="https://www.testdevlab.com/blog/what-is-penetration-testing-types-tools-best-practices">https://www.testdevlab.com/blog/what-is-penetration-testing-types-tools-best-practices</a></p>
+<h2>DevOps / SysAdmin</h2>
+<p><strong>LXC vs. Docker: Which One Should You Use?</strong><br>
+<a href="https://www.docker.com/blog/lxc-vs-docker/">https://www.docker.com/blog/lxc-vs-docker/</a></p>
+<p>🇫🇷 <a href="https://www.youtube.com/%40xavki">@xavki</a> - YouTube Videos:</p>
+<ol>
+<li><p><strong>HELM -17. Include &amp; Helpers - Template</strong><br>
+</p>
+</li>
+</ol>
+<p><a href="https://youtu.be/U50gM8vDWOY">https://youtu.be/U50gM8vDWOY</a></p>
+<ol>
+<li><p><strong>Infra de A à Z - 29. Ansible Vault pour vos secrets</strong><br>
+</p>
+</li>
+</ol>
+<p><a href="https://youtu.be/ESViHPL2f_I">https://youtu.be/ESViHPL2f_I</a></p>
+<ol>
+<li><p><strong>Cloud de A à Z - 30. Consul : création de services via ansible</strong><br>
+</p>
+</li>
+</ol>
+<p><a href="https://youtu.be/GdGGjJJdHiI">https://youtu.be/GdGGjJJdHiI</a></p>
+<ol>
+<li><p><strong>Cloud de A à Z - 31. Monitoring : introduction &amp; principes</strong><br>
+</p>
+</li>
+</ol>
+<p><a href="https://youtu.be/ZK-GzbacPvA">https://youtu.be/ZK-GzbacPvA</a></p>
+<h2>Web</h2>
+<h3>CSS</h3>
+<p><strong>Inline conditionals in CSS, now?</strong><br>
+<a href="https://lea.verou.me/blog/2024/css-conditionals-now/">https://lea.verou.me/blog/2024/css-conditionals-now/</a></p>
+<p><strong>How to use container queries now</strong><br>
+<a href="https://web.dev/blog/how-to-use-container-queries-now?hl=en">https://web.dev/blog/how-to-use-container-queries-now?hl=en</a></p>
+<p><strong>Cap Unit</strong><br>
+<a href="https://ishadeed.com/article/css-cap-unit/">https://ishadeed.com/article/css-cap-unit/</a></p>
+<blockquote>
+<p><em>"A look at how I solved a design problem with CSS cap unit."</em></p>
+</blockquote>
+<h3>SVG</h3>
+<p><strong>Morphing Arbitrary Paths in SVG</strong><br>
+<a href="https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/">https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/</a></p>
+<h3>JavaScript / TypeScript</h3>
+<p><strong>Displaying A User's Profile</strong><br>
+<a href="https://adocasts.com/lessons/displaying-a-users-profile">https://adocasts.com/lessons/displaying-a-users-profile</a></p>
+<blockquote>
+<p><em>"In this lesson, we'll learn how you can mimic popular sites and use an @
+handle to display your user's profiles"</em></p>
+</blockquote>
+<p><strong>Uploading and Displaying User Avatars</strong><br>
+<a href="https://adocasts.com/lessons/uploading-and-displaying-user-avatars">https://adocasts.com/lessons/uploading-and-displaying-user-avatars</a></p>
+<blockquote>
+<p><em>"In this lesson, we'll learn how to validate and upload avatar images into
+our project's storage. We'll then learn how we can easily display images we
+have contained within our app's storage"</em></p>
+</blockquote>
+<p><strong>Extracting all URLs of your sitemap.xml with JavaScript</strong><br>
+<a href="https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-javascript/">https://bugfactory.io/articles/extracting-all-urls-of-your-sitemap-xml-with-javascript/</a></p>
+<p><strong>Reanimated Can Block Your JS Thread</strong><br>
+<a href="https://andrei-calazans.com/posts/reanimated-blocking-js-thread/">https://andrei-calazans.com/posts/reanimated-blocking-js-thread/</a></p>
+<p><strong>Visual testing: The greatest trick in UI development</strong><br>
+<a href="https://storybook.js.org/blog/visual-testing-is-the-greatest-trick-in-ui-development/">https://storybook.js.org/blog/visual-testing-is-the-greatest-trick-in-ui-development/</a></p>
+<p><strong>How React 19 (Almost) Made the Internet Slower</strong><br>
+<a href="https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/">https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/</a></p>
+<p><strong>Ecma International approves ECMAScript 2024: What’s new?</strong><br>
+<a href="https://2ality.com/2024/06/ecmascript-2024.html">https://2ality.com/2024/06/ecmascript-2024.html</a></p>
+<p><strong>Optimizing Javascript for fun and for profit</strong><br>
+<a href="https://romgrk.com/posts/optimizing-javascript">https://romgrk.com/posts/optimizing-javascript</a></p>
+<p><strong>Understanding React Compiler</strong><br>
+<a href="https://tonyalicea.dev/blog/understanding-react-compiler/">https://tonyalicea.dev/blog/understanding-react-compiler/</a></p>
+<h2>Programming Language</h2>
+<p><strong>UUIDv7 in 24 languages</strong><br>
+<a href="https://antonz.org/uuidv7/">https://antonz.org/uuidv7/</a></p>
+<h3>PHP</h3>
+<p><strong>Practical Logging for PHP Applications with OpenTelemetry</strong><br>
+<a href="https://betterstack.com/community/guides/logging/php-logging-opentelemetry/">https://betterstack.com/community/guides/logging/php-logging-opentelemetry/</a></p>
+<p><strong>Tagged Singletons</strong><br>
+<a href="https://stitcher.io/blog/tagged-singletons">https://stitcher.io/blog/tagged-singletons</a></p>
+<h3>Erlang</h3>
+<p><strong>The Erlang Runtime System</strong><br>
+<a href="https://blog.stenmans.org/theBeamBook/">https://blog.stenmans.org/theBeamBook/</a></p>
+<h3>Elixir</h3>
+<p><strong>Learning Machine Learning in Elixir</strong><br>
+<a href="https://zacksiri.dev/posts/learning-machine-learning-in-elixir/">https://zacksiri.dev/posts/learning-machine-learning-in-elixir/</a></p>
+<h3>Go</h3>
+<p><strong>Why People are Angry over Go 1.23 Iterators</strong><br>
+<a href="https://www.gingerbill.org/article/2024/06/17/go-iterator-design/">https://www.gingerbill.org/article/2024/06/17/go-iterator-design/</a></p>
+<p><strong>Putting Go's Context package into context</strong><br>
+<a href="https://blog.meain.io/2024/golang-context/">https://blog.meain.io/2024/golang-context/</a></p>
+<p><strong>Common Anti-Patterns in Go Web Applications</strong><br>
+<a href="https://threedots.tech/post/common-anti-patterns-in-go-web-applications/">https://threedots.tech/post/common-anti-patterns-in-go-web-applications/</a></p>
+<p><strong>Atomic operations composition in Go</strong><br>
+<a href="https://antonz.org/atomics-composition/">https://antonz.org/atomics-composition/</a></p>
+<p><strong>Making Regex From Scratch in Go</strong><br>
+<a href="https://lewismetcalf.com/series/making-regex-from-scratch-in-go/">https://lewismetcalf.com/series/making-regex-from-scratch-in-go/</a></p>
+<p><strong>Iterators in Go</strong><br>
+<a href="https://bitfieldconsulting.com/posts/iterators">https://bitfieldconsulting.com/posts/iterators</a></p>
+<h3>C or C++</h3>
+<p><strong>How to use the new counted_by attribute in C (and Linux)</strong><br>
+<a href="https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/">https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/</a></p>
+<p><strong>Audio C++ Architecture, Optimization &amp; Best Practices With Gustav Andersson | WolfTalk n°022</strong><br>
+<a href="https://thewolfsound.com/talk022/">https://thewolfsound.com/talk022/</a></p>
+<p><strong>Reflection for C++26</strong><br>
+<a href="https://isocpp.org/files/papers/P2996R4.html">https://isocpp.org/files/papers/P2996R4.html</a></p>
+<h3>Rust</h3>
+<p><strong>Effective Rust</strong><br>
+<a href="https://www.lurklurk.org/effective-rust/">https://www.lurklurk.org/effective-rust/</a></p>
+<blockquote>
+<p><em>"35 Specific Ways to Improve Your Rust Code"</em></p>
+</blockquote>
+<p><strong>Bridging React Native and Rust via JSI</strong><br>
+<a href="https://ditto.live/blog/bridging-react-native-and-rust-via-jsi">https://ditto.live/blog/bridging-react-native-and-rust-via-jsi</a></p>
+<blockquote>
+<p><em>"Integrating React Native into the Ditto ecosystem was no small task. Here's
+how we leveraged our existing Rust Core and built our SDK using React Native’s
+New Architecture and JavaScript Interface (JSI)!"</em></p>
+</blockquote>
+<p><strong>Async Virtual Machines in Rust</strong><br>
+<a href="https://uberfoo.rs/blog/async-vm">https://uberfoo.rs/blog/async-vm</a></p>
+<p><strong>Networking and Sockets: Endianness</strong><br>
+<a href="https://www.kungfudev.com/blog/2024/06/14/network-sockets-endianness">https://www.kungfudev.com/blog/2024/06/14/network-sockets-endianness</a></p>
+<p><strong>Making a const version of Rust's array::from_fn - How hard can it be?</strong><br>
+<a href="https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html">https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html</a></p>
+<p><strong>Future's liveness problem</strong><br>
+<a href="https://skepfyr.me/blog/futures-liveness-problem/">https://skepfyr.me/blog/futures-liveness-problem/</a></p>
+<p><strong>Rust for Linux</strong><br>
+<a href="https://rust-for-linux.com/">https://rust-for-linux.com/</a></p>
+<p><strong>Ergonomic Self-Referential Types for Rust</strong><br>
+<a href="https://blog.yoshuawuyts.com/self-referential-types/">https://blog.yoshuawuyts.com/self-referential-types/</a></p>
+<p><strong>Rust patterns: Abolish the builder pattern</strong><br>
+<a href="https://kerkour.com/rust-abolish-the-builder-pattern">https://kerkour.com/rust-abolish-the-builder-pattern</a></p>
+<p><strong>Resolving Rust Symbols</strong><br>
+<a href="https://blog.shrirambalaji.com/posts/resolving-rust-symbols/">https://blog.shrirambalaji.com/posts/resolving-rust-symbols/</a></p>
+<p><strong>Using SIMD for Parallel Processing in Rust</strong><br>
+<a href="https://nrempel.com/using-simd-for-parallel-processing-in-rust/">https://nrempel.com/using-simd-for-parallel-processing-in-rust/</a></p>
+<h2>WASM</h2>
+<p><strong>The WASI Revolution: Luke Wagner on WebAssembly's Past, Present, and Future</strong><br>
+<a href="https://youtu.be/jPDMYpVUA04">https://youtu.be/jPDMYpVUA04</a></p>
+<h3>Zig</h3>
+<p><strong>Writing a SQL database, take two: Zig and RocksDB</strong><br>
+<a href="https://notes.eatonphil.com/zigrocks-sql.html">https://notes.eatonphil.com/zigrocks-sql.html</a></p>
+<p><strong>Be Careful When Assigning ArenaAllocators</strong><br>
+<a href="https://www.openmymind.net/Be-Careful-When-Assigning-ArenaAllocators/">https://www.openmymind.net/Be-Careful-When-Assigning-ArenaAllocators/</a></p>
+<p><strong>Zig vs. Rust at work: the choice we made</strong><br>
+<a href="https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/">https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/</a></p>
+<h2>Conferences / Events</h2>
+<p><strong>Polycloud 2024</strong><br>
+<a href="https://www.youtube.com/watch?v=qHKeYDQy1P0&list=PLAuRNrEDx0jaERgj64agIEKH7BIz_lLhn">https://www.youtube.com/watch?v=qHKeYDQy1P0&amp;list=PLAuRNrEDx0jaERgj64agIEKH7BIz_lLhn</a></p>
+<p><strong>Devfest Lille 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLuZ_sYdawLiXf92Uq5iE5LlYKrOv1IUvx">https://www.youtube.com/playlist?list=PLuZ_sYdawLiXf92Uq5iE5LlYKrOv1IUvx</a></p>
+<p><strong>AI_dev Europe 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6">https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6</a></p>
 ]]></content:encoded></item></channel></rss>
