@@ -13,6 +13,9 @@ https://this-week-in-rust.org/blog/2024/06/19/this-week-in-rust-552/
 **This Week in Rust 553**  
 https://this-week-in-rust.org/blog/2024/06/26/this-week-in-rust-553/
 
+**This Week in Rust 554**  
+https://this-week-in-rust.org/blog/2024/07/03/this-week-in-rust-554/
+
 **This Week In React 190**  
 https://thisweekinreact.com/newsletter/190
 
