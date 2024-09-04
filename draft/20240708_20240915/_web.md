@@ -22,6 +22,9 @@ https://web.dev/blog/at-property-baseline?hl=en
 
 https://ishadeed.com/article/css-grid-area/
 
+**The Ultimate Guide to Font Performance Optimization**  
+https://www.debugbear.com/blog/website-font-performance
+
 ### JavaScript
 
 **Exploring the Broadcast Channel API for cross-tab communication**  
