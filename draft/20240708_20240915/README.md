@@ -8,6 +8,8 @@
 
 #include <_jsts.md>
 
+#include <_go.md>
+
 #include <_rust.md>
 
 #include <_zig.md>
