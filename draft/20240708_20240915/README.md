@@ -3,6 +3,9 @@
 **Reasons to write design docs**  
 https://ntietz.com/blog/reasons-to-write-design-docs/
 
+**Marché de l'emploi tech: la fête est finie**  
+https://christopher.engineering/blog/le-marche-du-travail-est-casse/
+
 ## Web
 
 #include <_web.md>
