@@ -10,6 +10,9 @@ https://jakearchibald.com/2024/video-with-transparency/
 **Choose the right image format**  
 https://web.dev/articles/choose-the-right-image-format?hl=en
 
+**Toasts are Bad UX**  
+https://maxschmitt.me/posts/toasts-bad-ux
+
 ### CSS
 
 **@property: Next-gen CSS variables now with universal browser support**  
