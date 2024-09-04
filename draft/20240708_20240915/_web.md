@@ -26,3 +26,6 @@ https://ishadeed.com/article/css-grid-area/
 
 **Exploring the Broadcast Channel API for cross-tab communication**  
 https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/
+
+**How To Reduce Unused JavaScript**  
+https://www.debugbear.com/blog/reduce-unused-javascript
