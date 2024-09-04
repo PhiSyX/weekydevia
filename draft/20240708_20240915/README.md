@@ -11,4 +11,9 @@
 #include <_rust.md>
 
 #include <_zig.md>
+
+## WASM / WASI
+
+#include <_wasm.md>
+
 --- THE END ---
