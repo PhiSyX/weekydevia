@@ -4,6 +4,9 @@ https://developer.chrome.com/blog/view-transitions-misconceptions?hl=en
 **Profiling a web engine**  
 https://feaneron.com/2024/07/12/profiling-a-web-engine/
 
+**Video with alpha transparency on the web**  
+https://jakearchibald.com/2024/video-with-transparency/
+
 ### CSS
 
 **@property: Next-gen CSS variables now with universal browser support**  
