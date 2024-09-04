@@ -9,3 +9,6 @@ https://teiolass.gitlab.io/posts/zig_stack/
 > existing application.
 
 https://github.com/david-vanderson/dvui
+
+**Zig's Temporary Variable are Const**  
+https://www.openmymind.net/Zigs-Temporary-Variables-are-Const/
