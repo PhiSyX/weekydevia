@@ -9,6 +9,13 @@ https://feaneron.com/2024/07/12/profiling-a-web-engine/
 **@property: Next-gen CSS variables now with universal browser support**  
 https://web.dev/blog/at-property-baseline?hl=en
 
+**CSS Grid Areas**
+
+> A fresh look at the CSS grid template areas and how to take advantage of its
+> full potential today.
+
+https://ishadeed.com/article/css-grid-area/
+
 ### JavaScript
 
 **Exploring the Broadcast Channel API for cross-tab communication**  
