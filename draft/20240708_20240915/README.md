@@ -1,3 +1,8 @@
+## General
+
+**Reasons to write design docs**  
+https://ntietz.com/blog/reasons-to-write-design-docs/
+
 ## Web
 
 #include <_web.md>
