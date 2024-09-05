@@ -11,3 +11,6 @@ https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/
 
 **Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)**  
 https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/
+
+**Understanding Async Await in Rust: From State Machines to Assembly Code**  
+https://eventhelix.com/rust/rust-to-assembly-async-await/
