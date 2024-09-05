@@ -1,5 +1,8 @@
 ### Gleam
 
+**Building a real-time chat in Gleam**  
+https://gautier.dev/articles/real-time-gleam-chat
+
 **Getting to know Actors in Gleam - Raúl Chouza | Code BEAM America 2024**  
 https://www.youtube.com/watch?v=WaHx6n2UZJg
 
