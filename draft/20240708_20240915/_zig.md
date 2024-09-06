@@ -18,3 +18,6 @@ https://www.openmymind.net/Zigs-Temporary-Variables-are-Const/
     1. https://www.openmymind.net/Zigs-HashMap-Part-1/
     2. https://www.openmymind.net/Zigs-HashMap-Part-2/
     3. https://www.openmymind.net/Zigs-HashMap-Part-3/
+
+**An Introduction to Zig**  
+https://pedropark99.github.io/zig-book/
