@@ -13,6 +13,9 @@ https://web.dev/articles/choose-the-right-image-format?hl=en
 **Toasts are Bad UX**  
 https://maxschmitt.me/posts/toasts-bad-ux
 
+**Accessing hardware devices on the web**  
+https://web.dev/articles/devices-introduction?hl=en
+
 ### CSS
 
 **@property: Next-gen CSS variables now with universal browser support**  
