@@ -11,6 +11,9 @@ https://christopher.engineering/blog/le-marche-du-travail-est-casse/
 🇩🇪 🇬🇧 **BOB Konferenz 2024**  
 https://media.ccc.de/c/bobkonf2024
 
+🇫🇷 **BreizhCamp 2024**  
+https://www.youtube.com/playlist?list=PLv7xGPH0RMUSa01SXi__a8r2rvrVJbgaU
+
 ## DevOps / SysAdmin
 
 #include <_devops.md>
