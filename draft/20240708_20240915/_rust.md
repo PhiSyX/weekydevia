@@ -14,3 +14,6 @@ https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-syn
 
 **Understanding Async Await in Rust: From State Machines to Assembly Code**  
 https://eventhelix.com/rust/rust-to-assembly-async-await/
+
+**Building a browser using Servo as a web engine!**  
+https://servo.org/blog/2024/09/11/building-browser/
