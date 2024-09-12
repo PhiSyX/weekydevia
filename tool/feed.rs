@@ -3,6 +3,7 @@ use std::{
     path,
 };
 
+use chrono::Timelike;
 use expry::{rewind, MemoryPool};
 
 pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
@@ -24,7 +25,11 @@ pub fn generate_rss(release_file: impl AsRef<path::Path>) -> crate::Result<()> {
 
     let release_file = release_file.as_ref().join("README.md");
     let rss_content = std::fs::read_to_string(release_file)?;
-    let rss_pub_date = chrono::Utc::now();
+    let now = chrono::Utc::now();
+    let rss_pub_date = now
+        .with_hour(now.hour() + 2)
+        .and_then(|n| n.with_minute(now.minute() + 10))
+        .unwrap();
     let rss_title = format!("weekydevia: {}", &release_date);
     let rss_link = format!(
         "https://github.com/PhiSyX/weekydevia/blob/main/release/{}/README.md",
