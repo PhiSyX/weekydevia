@@ -5,8 +5,9 @@
 Releases are published every Thursday, every 2 weeks, except in case of
 unavailability or lack of links.
 
-Last Release: [2024.06.17 - 2024.07.07](release/20240617_20240707/README.md)
+Last Release: [2024.07.08 - 2024.09.14](release/20240708_20240914/README.md)
 
+- [2024.07.08 - 2024.09.14](release/20240708_20240914/README.md)
 - [2024.06.17 - 2024.07.07](release/20240617_20240707/README.md)
 - [2024.06.10 - 2024.06.16](release/20240610_20240616/README.md)
 - [2024.06.03 - 2024.06.09](release/20240603_20240609/README.md)

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-07-04 09:52:09.923009100 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.02</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.02)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>weekydevia</title><link>https://github.com/PhiSyX/weekydevia</link><description>Resources of the week</description><lastBuildDate>2024-09-12 11:41:19.626387400 UTC</lastBuildDate><generator>weekydevia</generator><atom:link href="https://raw.githubusercontent.com/PhiSyX/weekydevia/main/release/feed.xml" rel="self" type="application/rss+xml"></atom:link><item><title>weekydevia: 2024.05.27 - 2024.06.02</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240527_20240602/README.md</link><description><![CDATA[Resources of the week (2024.05.27 - 2024.06.02)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-05-30 19:50:37.398406300 UTC</pubDate><content:encoded><![CDATA[<h1>2024.05.27 - 2024.06.02</h1>
 <p>Hello and welcome to another issue of weekydevia. This is a summary of the
 resources, readings and news I've read and found interesting to share this week.</p>
 <p>Links may be out of date, this is not a newsletter about new resources only.</p>
@@ -728,4 +728,129 @@ New Architecture and JavaScript Interface (JSI)!"</em></p>
 <a href="https://www.youtube.com/playlist?list=PLuZ_sYdawLiXf92Uq5iE5LlYKrOv1IUvx">https://www.youtube.com/playlist?list=PLuZ_sYdawLiXf92Uq5iE5LlYKrOv1IUvx</a></p>
 <p><strong>AI_dev Europe 2024</strong><br>
 <a href="https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6">https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6</a></p>
+]]></content:encoded></item><item><title>weekydevia: 2024.07.08 - 2024.09.14</title><link>https://github.com/PhiSyX/weekydevia/blob/main/release/20240708_20240914/README.md</link><description><![CDATA[Resources of the week (2024.07.08 - 2024.09.14)]]></description><author>Mike &apos;PhiSyX&apos; S.</author><guid></guid><pubDate>2024-09-12 11:41:19.626387400 UTC</pubDate><content:encoded><![CDATA[<h1>2024.07.08 - 2024.09.14</h1>
+<p>Hello and welcome to another issue of weekydevia. This is a summary of the
+resources, readings and news I've read and found interesting to share over the
+past few weeks.</p>
+<p>Links may be out of date, this is not a newsletter about new resources only.</p>
+<hr>
+<h2>General</h2>
+<p><strong>Reasons to write design docs</strong><br>
+<a href="https://ntietz.com/blog/reasons-to-write-design-docs/">https://ntietz.com/blog/reasons-to-write-design-docs/</a></p>
+<p>🇫🇷 <strong>Marché de l'emploi tech: la fête est finie</strong><br>
+<a href="https://christopher.engineering/blog/le-marche-du-travail-est-casse/">https://christopher.engineering/blog/le-marche-du-travail-est-casse/</a></p>
+<h2>Conferences / Talks</h2>
+<p>🇩🇪 🇬🇧 <strong>BOB Konferenz 2024</strong><br>
+<a href="https://media.ccc.de/c/bobkonf2024">https://media.ccc.de/c/bobkonf2024</a></p>
+<p>🇫🇷 <strong>BreizhCamp 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLv7xGPH0RMUSa01SXi&#95%3B&#95%3Ba8r2rvrVJbgaU">https://www.youtube.com/playlist?list=PLv7xGPH0RMUSa01SXi&amp;#95;&amp;#95;a8r2rvrVJbgaU</a></p>
+<h2>DevOps / SysAdmin</h2>
+<p>🇨🇳 🇬🇧 <strong>Kubernetes Community Days Taipei 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLGB9Room8gH&#95%3BPrII7W1Pqs9w30vO3cnSt">https://www.youtube.com/playlist?list=PLGB9Room8gH&amp;#95;PrII7W1Pqs9w30vO3cnSt</a></p>
+<h2>Database</h2>
+<p><strong>We need to talk about ENUMs</strong><br>
+<a href="https://notso.boringsql.com/posts/postgresql-enums/">https://notso.boringsql.com/posts/postgresql-enums/</a></p>
+<h2>Web</h2>
+<p><strong>Misconceptions about view transitions</strong><br>
+<a href="https://developer.chrome.com/blog/view-transitions-misconceptions?hl=en">https://developer.chrome.com/blog/view-transitions-misconceptions?hl=en</a></p>
+<p><strong>Profiling a web engine</strong><br>
+<a href="https://feaneron.com/2024/07/12/profiling-a-web-engine/">https://feaneron.com/2024/07/12/profiling-a-web-engine/</a></p>
+<p><strong>Video with alpha transparency on the web</strong><br>
+<a href="https://jakearchibald.com/2024/video-with-transparency/">https://jakearchibald.com/2024/video-with-transparency/</a></p>
+<p><strong>Choose the right image format</strong><br>
+<a href="https://web.dev/articles/choose-the-right-image-format?hl=en">https://web.dev/articles/choose-the-right-image-format?hl=en</a></p>
+<p><strong>Toasts are Bad UX</strong><br>
+<a href="https://maxschmitt.me/posts/toasts-bad-ux">https://maxschmitt.me/posts/toasts-bad-ux</a></p>
+<p><strong>Accessing hardware devices on the web</strong><br>
+<a href="https://web.dev/articles/devices-introduction?hl=en">https://web.dev/articles/devices-introduction?hl=en</a></p>
+<h3>CSS</h3>
+<p><strong>@property: Next-gen CSS variables now with universal browser support</strong><br>
+<a href="https://web.dev/blog/at-property-baseline?hl=en">https://web.dev/blog/at-property-baseline?hl=en</a></p>
+<p><strong>CSS Grid Areas</strong></p>
+<blockquote>
+<p>A fresh look at the CSS grid template areas and how to take advantage of its
+full potential today.</p>
+</blockquote>
+<p><a href="https://ishadeed.com/article/css-grid-area/">https://ishadeed.com/article/css-grid-area/</a></p>
+<p><strong>The Ultimate Guide to Font Performance Optimization</strong><br>
+<a href="https://www.debugbear.com/blog/website-font-performance">https://www.debugbear.com/blog/website-font-performance</a></p>
+<h3>JavaScript</h3>
+<p><strong>Exploring the Broadcast Channel API for cross-tab communication</strong><br>
+<a href="https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/">https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/</a></p>
+<p><strong>How To Reduce Unused JavaScript</strong><br>
+<a href="https://www.debugbear.com/blog/reduce-unused-javascript">https://www.debugbear.com/blog/reduce-unused-javascript</a></p>
+<h2>Programming Language</h2>
+<h3>C</h3>
+<p><strong>Writing a C Compiler</strong><br>
+<a href="https://norasandler.com/book/">https://norasandler.com/book/</a></p>
+<p><strong>Xr0 - C But Safe</strong><br>
+<a href="https://xr0.dev/">https://xr0.dev/</a></p>
+<h3>C++</h3>
+<p><strong>TSOM : Les bases d'un voxel engine</strong><br>
+<a href="https://sirlynixvanfrietjes.be/2024/07/30/tsom-bases-voxel/">https://sirlynixvanfrietjes.be/2024/07/30/tsom-bases-voxel/</a></p>
+<h3>Gleam</h3>
+<p><strong>Building a real-time chat in Gleam</strong><br>
+<a href="https://gautier.dev/articles/real-time-gleam-chat">https://gautier.dev/articles/real-time-gleam-chat</a></p>
+<p><strong>Getting to know Actors in Gleam - Raúl Chouza | Code BEAM America 2024</strong><br>
+<a href="https://www.youtube.com/watch?v=WaHx6n2UZJg">https://www.youtube.com/watch?v=WaHx6n2UZJg</a></p>
+<h3>Elixir</h3>
+<p><strong>Creating and Evolving Elixir (with José Valim)</strong><br>
+<a href="https://youtu.be/IGmwiyines0">https://youtu.be/IGmwiyines0</a></p>
+<p><strong>Elixir WebRTC — batteries included WebRTC implementation for the Elixir ecosystem</strong><br>
+<a href="https://blog.swmansion.com/elixir-webrtc-batteries-included-webrtc-implementation-for-the-elixir-ecosystem-249eff4073d8">https://blog.swmansion.com/elixir-webrtc-batteries-included-webrtc-implementation-for-the-elixir-ecosystem-249eff4073d8</a></p>
+<p>🇪🇸 <strong>Writing much better tests in Elixir by Xochitl Pérez | Code BEAM Lite Mexico 2023 (Talk in Spanish)</strong><br>
+<a href="https://www.youtube.com/watch?v=jrvhk1EshRw">https://www.youtube.com/watch?v=jrvhk1EshRw</a></p>
+<h3>JavaScript / TypeScript</h3>
+<p><strong>Can We Improve Process Per Request Performance in Node</strong><br>
+<a href="https://maxmcd.com/posts/process-per-request-performance/">https://maxmcd.com/posts/process-per-request-performance/</a></p>
+<p><strong>Garbage collection and closures</strong><br>
+<a href="https://jakearchibald.com/2024/garbage-collection-and-closures/">https://jakearchibald.com/2024/garbage-collection-and-closures/</a></p>
+<p><strong>JS Dates Are About to Be Fixed</strong><br>
+<a href="https://docs.timetime.in/blog/js-dates-finally-fixed/">https://docs.timetime.in/blog/js-dates-finally-fixed/</a></p>
+<p><strong>Understanding Concurrency, Parallelism and JS</strong><br>
+<a href="https://www.rugu.dev/en/blog/concurrency-and-parallelism/">https://www.rugu.dev/en/blog/concurrency-and-parallelism/</a></p>
+<h3>Go</h3>
+<p><strong>gRPC Over HTTP/3</strong><br>
+<a href="https://kmcd.dev/posts/grpc-over-http3/">https://kmcd.dev/posts/grpc-over-http3/</a></p>
+<h3>Rust</h3>
+<p><strong>Beating the compiler</strong><br>
+<a href="https://www.mattkeeter.com/blog/2024-07-12-interpreter/">https://www.mattkeeter.com/blog/2024-07-12-interpreter/</a></p>
+<p><strong>repr(C): Clear, Simple and (Sometimes) Wrong</strong><br>
+<a href="https://jack.wrenn.fyi/blog/repr-c-limitations/">https://jack.wrenn.fyi/blog/repr-c-limitations/</a></p>
+<p><strong>An Optimization That’s Impossible in Rust!</strong><br>
+<a href="https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/">https://www.tunglevo.com/note/an-optimization-thats-impossible-in-rust/</a></p>
+<p><strong>Async Rust can be a pleasure to work with (without <code>Send + Sync + 'static</code>)</strong><br>
+<a href="https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/">https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/</a></p>
+<p><strong>Understanding Async Await in Rust: From State Machines to Assembly Code</strong><br>
+<a href="https://eventhelix.com/rust/rust-to-assembly-async-await/">https://eventhelix.com/rust/rust-to-assembly-async-await/</a></p>
+<p><strong>Building a browser using Servo as a web engine!</strong><br>
+<a href="https://servo.org/blog/2024/09/11/building-browser/">https://servo.org/blog/2024/09/11/building-browser/</a></p>
+<h3>Zig</h3>
+<p><strong>Run Functions in Another Stack with Zig</strong><br>
+<a href="https://teiolass.gitlab.io/posts/zig&#95%3Bstack/">https://teiolass.gitlab.io/posts/zig&amp;#95;stack/</a></p>
+<p><strong>DVUI - Immediate Zig GUI for Apps and Games</strong><br>
+</p>
+<blockquote>
+<p>A Zig GUI toolkit for whole applications or extra debugging windows in an
+existing application.</p>
+</blockquote>
+<p><a href="https://github.com/david-vanderson/dvui">https://github.com/david-vanderson/dvui</a></p>
+<p><strong>Zig's Temporary Variable are Const</strong><br>
+<a href="https://www.openmymind.net/Zigs-Temporary-Variables-are-Const/">https://www.openmymind.net/Zigs-Temporary-Variables-are-Const/</a></p>
+<p><strong>Zig's HashMap</strong></p>
+<ol>
+<li><p>https://www.openmymind.net/Zigs-HashMap-Part-1/</p>
+</li>
+<li><p>https://www.openmymind.net/Zigs-HashMap-Part-2/</p>
+</li>
+<li><p>https://www.openmymind.net/Zigs-HashMap-Part-3/</p>
+</li>
+</ol>
+<p><strong>An Introduction to Zig</strong><br>
+<a href="https://pedropark99.github.io/zig-book/">https://pedropark99.github.io/zig-book/</a></p>
+<h2>WASM / WASI</h2>
+<p><strong>Wasm I/O 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLP3xGl7Eb-4Nmj4CJ5WLQZx5UAYvhH920">https://www.youtube.com/playlist?list=PLP3xGl7Eb-4Nmj4CJ5WLQZx5UAYvhH920</a></p>
+<p><strong>WASM Research Day 2024</strong><br>
+<a href="https://www.youtube.com/playlist?list=PLTxJmWeyp02DAOQnK1wHTo6KmfVAvAkme">https://www.youtube.com/playlist?list=PLTxJmWeyp02DAOQnK1wHTo6KmfVAvAkme</a></p>
 ]]></content:encoded></item></channel></rss>
