@@ -124,8 +124,10 @@ impl Template {
 
                 let mut line = line.to_owned();
 
+                let escape_md_link = |s: &str| s.replace("_", "&#95;");
+
                 if line.trim_start().starts_with("http") {
-                    line = format!("[{0}]({0})", line.trim());
+                    line = format!("[{0}]({0})", escape_md_link(&line).trim());
                 } else if line.trim_start_matches("1. ").starts_with("http")
                     || line.trim_start_matches("2. ").starts_with("http")
                     || line.trim_start_matches("3. ").starts_with("http")
@@ -137,7 +139,11 @@ impl Template {
                     || line.trim_start_matches("9. ").starts_with("http")
                     || line.trim_start_matches("10. ").starts_with("http")
                 {
-                    line = format!("{0} [{1}]({1})", &line[0..2], &line[3..].trim());
+                    line = format!(
+                        "{0} [{1}]({1})",
+                        &line[0..2],
+                        escape_md_link(&line[3..]).trim()
+                    );
                 }
 
                 let filename: OsString = if output_filename.to_string_lossy().starts_with('_') {
