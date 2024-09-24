@@ -8,4 +8,7 @@ https://www.youtube.com/playlist?list=PLj6h78yzYM2PNPnhhT854u2bghrGq6YHk
 ## Programming language
 
 #include <_cpp.md>
+
+#include <_go.md>
+
 --- THE END ---
